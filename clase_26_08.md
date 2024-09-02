@@ -51,3 +51,49 @@ Establece que existe una relación entre el precio y cantidad demanda de un bien
 Demanda: relación entre un rango de precios.
 
 Cantidad demandada: punto específico en la curva de demanda.
+
+### Oferta y Ley de Oferta
+
+#### Definición Oferta
+
+Cantidad de bienes o servicios que los vendedores están dispuestos a vender, a diferentes precios, en un determinado período de tiempo.
+
+#### Definición Ley de la Oferta
+
+Estable que existe una relación directa entre el precio y cantidad ofertada de un bien.
+
+### Equilibrio
+
+Cuando las curvas de oferta y demanda se cruzan, hablamos del punto de equilibrio.
+
+![Equilibrio de oferta y demanda](imagenes/equilibrio.png)
+
+Cuando una empresa tiene la capacidad de fijar precios, mueve la curva aumentando el precio de equilibrio, pero disminuyendo las cantidades que se compran.
+
+Beneficios: área del rectángulo formado por precio y cantidad.
+
+Ganancias: Beneficios - gastos de producción.
+
+### Función de Demanda y de Oferta
+
+Expresiones matemáticas que relacionan las cantidades demandas y ofrecidas de un bien o servicio con sus respectivos precios.
+
+Las cantidades demandadas u ofrecidas no dependen únicamente del precio del bien o servicio.
+
+#### Función de demanda
+
+QD = f(PBS, Y, PS, PC, X)
+
+PBS: precio del bien o servicio en cuestión.
+Y: ingreso disponible.
+PS: precio del bien o servicio sustituto.
+PC: precio del bien o servicio complementario.
+X: otras variables como gustos y preferencias del consumidor, tamaño del mercado, expectativas, etc.
+
+#### Función de oferta
+
+QO = f(PBS, PF, Z, X)
+
+PF: precio de los factores de la producción.
+Z: la tecnología.
+X: la cantidad de organizaciones que ofrecen el mismo bien o servicio, expectativas económicas, etc.
