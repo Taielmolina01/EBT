@@ -36,7 +36,7 @@ Estudia el comportamiento, acciones y decisiones de los agentes económicos indi
 
 Estudia el comportamiento, la estructura y la capacidad de variables agregadas: Producto Bruto Interno, inflación, crecimiento económico, tasa de empleo y desempleo, tasa de interés, deuda privada y pública, etc.
 
-Imagen economia positiva y normativa
+[/imagenes/economia positiva vs .png]
 
 #### Factores de la producción
 
@@ -69,7 +69,7 @@ El PBI mide el tamaño de una Economía. Es la suma de todos los bienes y servic
 
 PBI a precios constantes -> suma de los bienes pero a precios de un período base.
 
-Imagen PBI vs PBN vs 
+[/imagenes/pbi vs pbn vs.png]
 
 ### Finanzas
 
