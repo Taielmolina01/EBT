@@ -46,7 +46,7 @@ Establece que existe una relación entre el precio y cantidad demanda de un bien
 
 ###### Demanda vs cantidad demandada
 
-![Curva de demanda](imagenes/curvaDemanda.png)
+![Curva de demanda](imagenes/curva_demanda.png)
 
 Demanda: relación entre un rango de precios.
 
