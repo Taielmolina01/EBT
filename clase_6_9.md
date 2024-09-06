@@ -139,5 +139,13 @@ Diferencia entre deuda provisión y previsión
 | ¿Conozco la fecha de pago?   |    Si    |     Si    |    No     |
 
 Deuda: deuda xd.
+
 Provision: cuenta de luz.
+
 Prevision: gasto por despido.
+
+Cuentas transitorias de resultados
+
+- Ingresos
+- Egresos
+- Producción
