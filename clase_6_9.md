@@ -3,27 +3,36 @@
 ## Clase 6/9
 
 ### Contabilidad
+Creada por [Fray Luca Pacioli](https://es.wikipedia.org/wiki/Luca_Pacioli) 
 
 #### Definición
 
 Disciplina técnica que produce informes acerca del patrimonio de cualquier tipo de organización, y su evolución, para la toma de decisiones del ente, tanto internas como externas. Para lograrlo, se toman los actos económicos relativos al pasado, presente y los proyectados por la organización.
 
-El patrimonio es un todo, lo bueno y lo malo.
+El patrimonio es un todo, lo bueno (:D) y lo malo (D:).
 
 #### Objetivos
 
 Brindar información sobre:
 
 - Ejercicios pasados para realizar un análisis comparativo.
-- El ejercicio presente para determinar la situación económica, financiera y patrimonial.
+- El ejercicio presente para determinar:
+  - La situación económica:
+	 - Si la empresa es viable o no. Si hay rentabilidad y dinero para pagar las obligaciones.
+  - La situación Financiera:
+	- Cuanto dinero hay en caja
+  - La situación Patrimonial.
+	- Obligaciones, bienes y derechos.
+	- "Un resumen de todo"
 - El ejercicio futuro para proyectar los estados contables y tomar decisiones.
 
 Vigilar que no se aumente demasiado el gasto, ver cómo avanzan las ganancias, como avanza la deuda, como avanzan los stocks, etc.
 
 ### Definiciones
 
-- Hecho económico: es todo hecho que modifica el patrimonio del ente
-(un hecho de palabra no modifica el patrimonio, solo es como una _promesa_ de un hecho económico).
+- Hecho económico: 
+	- Es todo hecho que modifica el patrimonio del ente
+	- Un hecho de palabra **no** modifica el patrimonio, solo es como una _promesa_ de un hecho económico. Tiene que ser un hecho tanginble
 
 - Patrimonio: totalidad de lo que posee un ente; es decir, bienes, derechos y obligaciones.
 
@@ -35,17 +44,20 @@ Vigilar que no se aumente demasiado el gasto, ver cómo avanzan las ganancias, c
 
 Estado contable que refleja el estado patrimonial de un ente durante un período determinado. Es una _fotografía_ de los bienes, derechos y obligaciones de un ente en un instante determinado.
 
-Activo = Pasivo + Patrimonio Neto
+Sigue la siguiente ecuacion:
+- Activo = Pasivo + Patrimonio Neto
+  - Activo: Bienes y derechos de una empresa
+  - Pasivo: Obligaciones que tengo con terceros (Fisco, proveedores, sueldos de empleados, etc).
+  - Patrimonio neto: Obligacones con los accionistas y/o duenos.
 
-Activo:
+El balance refleja:
+- Las inversiones del ente (Activos) 
+- Como fueron financiadas dichas inversiones (Pasivos + Patrimonio neto).
 
-Pasivo: obligaciones que tengo con terceros.
-
-Patrimonio neto:
-
-El balance refleja las inversiones del ente y como fueron financiadas.
-
-Amortizaciones: guita que la contabilidad cuenta (xd) que va perdiendo valor los productos del patrimonio de la empresa (las PC que utilizan los empleados por ejemplo).
+Amortizaciones: 
+  - Es la "Vida util contable" de un bien. Es **MENOR** que la vida util real/tecnica.
+  - Guita que la contabilidad cuenta (xd) que va perdiendo valor los productos del patrimonio de la empresa (las PC que utilizan los empleados por ejemplo). Cada año contable, algunos bienes van perdiendo valor contable.
+	- El auto el primer año vale 5000. El año siguiente vale 4000. Asi por 5 años hasta que pierde su valor contable (mas alla de que el auto esté impecable).
 
 Usamos amortización lineal, si algo está amortizado es que ya perdió todo su valor.
 
@@ -80,6 +92,19 @@ Aspecto económico se ve reflejado en el cuadro de resultados y en la cuenta uti
 Aspecto financiero se ve reflejado en la cuenta disponibilidades.
 
 Siempre se carga el precio al que uno compra, no al que vale.
+
+### Secciones
+Tiene diversas secciones. 
+
+- Utilidad Bruta
+- Utilidad y Explotacion
+- Utilidad neta operativa
+- Utilidad neta del ejercicio
+- Utilidad antes de Ingresos Brutos
+- Utilidad neta
+
+![Cuadro](./imagenes/Secciones_Cuadro_Resultados.png)
+
 
 ### Tipos de cuentas
 
@@ -138,11 +163,17 @@ Diferencia entre deuda provisión y previsión
 | ¿Conozco el monto a pagar? |    Si    |     No    |    No     |
 | ¿Conozco la fecha de pago?   |    Si    |     Si    |    No     |
 
-Deuda: deuda xd.
+Deuda: 
+  - deuda xd. 
 
-Provision: cuenta de luz.
+Provision: 
+  - Ejemplo: Factura de luz perdida.
+  - No sabes *cuanto* tenes que pagar, pero si cuando. Pones una cantidad "provisionada", estimando cuanto te va a costar.
 
-Prevision: gasto por despido.
+Prevision: 
+  - Ejemplo: gasto por despido.
+  - Vos no sabes cuanto te va a costar (tal vez despedis a uno con mucha antigüedad y tiene mucha indemnizacion) ni cuando (puede que lo despidas ahora o en 7 meses).
+  - Vos carga la cuentas contablemente, no financiaramente. Es para planificar mejor. No es que "moves la guita".
 
 Cuentas transitorias de resultados
 
