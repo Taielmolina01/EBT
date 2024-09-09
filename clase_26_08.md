@@ -10,27 +10,25 @@ Lugar donde los compradores y los vendedores realizan un intercambio de bienes y
 
 Estos intercambios, en la mayoría de los casos, se realizan con dinero como moneda de intercambio.
 
-El precio (P) y la cantidad (Q) son las dos variables más importantes que tiene el mercado.
+El **precio (P)** y la **cantidad (Q)** son las dos variables más importantes que tiene el mercado.
 
 #### Características
 
 - La cantidad de empresas que participan en el mercado.
+  - Si hay 1 sola hay un monopolio; fijan el precio que quieren.
 - La capacidad de diferenciación o sustitución de los productos o servicios.
-
-    - Diferenciación: un mismo producto es vendido por múltiples empresas, asique cada una busca como destacar por sobre la competencia.
-    - Sustitución: el precio de la carne se va al carajo asique reemplazo la compra de carne por compra de pescado.
-
+  - Diferenciación: un mismo producto es vendido por múltiples empresas, asique cada una busca como destacar por sobre la competencia.
+  - Sustitución: Los productos son distintos, pero satisfacen las mismas necesidades. Por ejemplo, el precio de la carne se va al carajo asique reemplazo la compra de carne por compra de pescado.
 - El poder de las empresas de fijar el precio en el mercado.
-
-    Una empresa tiene la capacidad de fijar un precio si tiene la mayoría de ventas (mayoría por bastante).
-
+  - Una empresa tiene la capacidad de fijar un precio si tiene la mayoría de ventas (mayoría por bastante).
 - Las barreras de entrada y de salida del mercado.
+  - Que tan dificil es entrar a dicho mercado. Cual es la inversion inicial, cuales son los conocimientos iniciales, etc.
+  - Que tan dificil es salir del mercado. QUe pasa si te va mal? Es facil vender las maquinas? 
 
 ### Ceteris Paribus
-
 #### Definición
 
-Término latín que significa _todo lo demás constante_.
+Término latín (🇻🇦) que significa _todo lo demás constante_.
 
 Este término se utiliza en Economía para analizar la variación de una variable dependiente cuando varía una variable independiente, suponiendo como constantes al resto de las variables independientes (derivada parcial).
 
@@ -42,7 +40,9 @@ Cantidad de bienes o servicios que los demandantes están dispuestos a adquirir,
 
 ##### Definición Ley de la Demanda
 
-Establece que existe una relación entre el precio y cantidad demanda de un bien.
+Establece que existe una relación **INVERSA** entre el precio y cantidad demanda de un bien.
+Mayor el precio, menor la demanda.
+Menor el precio, mayor la demanda.
 
 ###### Demanda vs cantidad demandada
 
@@ -60,7 +60,9 @@ Cantidad de bienes o servicios que los vendedores están dispuestos a vender, a 
 
 #### Definición Ley de la Oferta
 
-Estable que existe una relación directa entre el precio y cantidad ofertada de un bien.
+Estable que existe una relación **DIRECTA** entre el precio y cantidad ofertada de un bien.
+Mayor el precio, mayor la oferta.
+Menor el precio, menor la oferta.
 
 ### Equilibrio
 
@@ -94,6 +96,7 @@ X: otras variables como gustos y preferencias del consumidor, tamaño del mercad
 
 QO = f(PBS, PF, Z, X)
 
+PBS: precio del bien o servicio en cuestión.
 PF: precio de los factores de la producción.
 Z: la tecnología.
 X: la cantidad de organizaciones que ofrecen el mismo bien o servicio, expectativas económicas, etc.
