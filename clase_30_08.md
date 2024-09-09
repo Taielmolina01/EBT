@@ -12,11 +12,11 @@ Mide la sensibilidad de una variable con respecto a otra variable. Matemáticame
 
 Mide la sensibilidad de la cantidad demandada a las variaciones del precio. 
 
-Ep = (%ΔQ) / (%ΔP)
+$Ep = \frac{ \\% \Delta Q}{ \\% \Delta P}$
 
 También se puede expresar como
 
-Ep = P/Q *  ΔQ/ΔP
+$Ep = \frac{P}{Q} \cdot \frac{\Delta Q}{\Delta P}$
 
 Normalmente es una cifra negativa. Normalmente, cuando sube el precio de un bien -> cantidad demandada disminuye => ΔQ/ΔP es negativo.
 
@@ -37,6 +37,7 @@ Poseen las siguientes características:
 - Ninguna empresa tiene el poder de mercado suficiente para influir en los precios.
 
 ### Mercados de competencia imperfecta
+Este es el mundo real
 
 #### Monopolio
 
