@@ -1,10 +1,6 @@
-# EBT
+# Dinero
 
-## Clase 2/9
-
-### Dinero
-
-#### Definición
+## Definición
 
 Activo o bien generalmente aceptado como medio de pago por los agentes económicos para sus intercambios. Activo financiero neutro o plenamente líquido, es decir, que solo el hecho de tenerlo implica que podes comprar activo o bien.
 
@@ -15,19 +11,19 @@ Tipos de dinero:
 - electrónico.
 - signo.
 
-#### Funciones
+## Funciones
 
 A. Medio de pago: cuando es requerido con el solo propósito de usarlo para intercambiarlo por otras cosas.
 B. Unidad de cuenta: permite valorizar todos los bienes y servicios en una escala común.
 C. Depósito de valor: morada temporaria del poder de compra.
 
-#### Características
+## Características
 
 1. Liquidez: capacidad de un activo de convertirse en dinero sin perder su valor. Mas liquido es -> mas capaz de convertirse en dinero 
 2. Rendimiento: remuneración debida a su posesión durante un determinado período de tiempo.
 3. Riesgo: evalúa la posibilidad de afectar su calidad como reserva de valor.
 
-##### Agregados monetarios
+### Agregados monetarios
 
 - Cash (C): efectivo en manos del público es el valor de los billetes y las monedas en manos de los hogares y de las empresas no financieras de una economía.
 
@@ -48,24 +44,24 @@ Tasa activa y tasa pasiva
     M2 (M1 + CA + PF < 1Y): Agregado de sumarle al M1 los saldos de los depositos a plazo propiedad de los hogares y de las empresas **NO FINANCIERAS**.
     M3 (M2 + PF > 1Y): Engloba el M2 y las cesiones temporales de dinero, las particiones en fondos del mercado monetario y los valores que no sean acciones y tengan una vida no superior al 1 año.
 
-#### Agentes
+## Agentes
 
 ![Agentes de la economía](imagenes/agentes.png)
 
-#### Motivos de demanda de dinero
+## Motivos de demanda de dinero
 
 Transacciones precaución y especulación.
 
-#### Tasas de interés
+## Tasas de interés
 
 Representa el costo del dinero en un período de tiempo determinado.
 
 A mayor riesgo, mayor tasa de interés, el costo del dinero es alto.
 
-### Inflación
+# Inflación
 Esta la re conocemos (😎)
 
-#### Definición
+## Definición
 
 Aumento sostenido del nivel general de precios en la economía durante un determinado período de tiempo. Este proceso va disminuyendo el poder adquisitivo.
 Se clasifica en 4 grandes tipos:
@@ -74,7 +70,7 @@ Se clasifica en 4 grandes tipos:
 - Alta: >20% anual <!-- Argentina la cabra🐐 -->
 - Hiperinflacion: >50% anual
 
-#### Tipos
+## Tipos
 
 - Inflacion de **demanda**: se origina por un aumento en la demanda agregada por encima de la oferta agregada. Puede ser por un aumento en el consumo, la inversión, el gasto de gobierno, el salario real, la oferta monetaria o una disminución de los impuestos.
 
@@ -86,7 +82,7 @@ Se clasifica en 4 grandes tipos:
 
 - Inflacion por Politica Monetaria: La oferta de dinero crece a una tasa superior a la demanda de dinero.
 
-#### Soluciones para bajar la inflación
+## Soluciones para bajar la inflación
 
 - Pacto social entre los agentes económicos para llegar a un acuerdo de precios y salarios.
 - Corrección de los precios relativos.
