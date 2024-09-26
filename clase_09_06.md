@@ -1,17 +1,13 @@
-# EBT
-
-## Clase 6/9
-
-### Contabilidad
+# Contabilidad
 Creada por [Fray Luca Pacioli](https://es.wikipedia.org/wiki/Luca_Pacioli) 
 
-#### Definición
+## Definición
 
 Disciplina técnica que produce informes acerca del patrimonio de cualquier tipo de organización, y su evolución, para la toma de decisiones del ente, tanto internas como externas. Para lograrlo, se toman los actos económicos relativos al pasado, presente y los proyectados por la organización.
 
 El patrimonio es un todo, lo bueno (:D) y lo malo (D:).
 
-#### Objetivos
+## Objetivos
 
 Brindar información sobre:
 
@@ -28,7 +24,7 @@ Brindar información sobre:
 
 Vigilar que no se aumente demasiado el gasto, ver cómo avanzan las ganancias, como avanza la deuda, como avanzan los stocks, etc.
 
-### Definiciones
+# Definiciones
 
 - Hecho económico: 
 	- Es todo hecho que modifica el patrimonio del ente
@@ -40,7 +36,7 @@ Vigilar que no se aumente demasiado el gasto, ver cómo avanzan las ganancias, c
 
 - Variaciones patrimoniales: movimientos en los informes contables originados por hechos ecónomicos.
 
-### Balance
+# Balance
 
 Estado contable que refleja el estado patrimonial de un ente durante un período determinado. Es una _fotografía_ de los bienes, derechos y obligaciones de un ente en un instante determinado.
 
@@ -69,9 +65,9 @@ Fondo de comercio es es el valor actual de los superbeneficios que produce una e
 
 Lo que es financiero no se coloca cuando se carga un bien uso (si compré una maquinaria por 5000USD y la instalación vale 1000USD, lo cargo como 6000USD pero si para ello pedí un préstamo que con intereses termino costando 6200USD esos 200USD no se cuentan ahi, si no que va en otro lado).
 
-### Cuadro de resultados
+# Cuadro de resultados
 
-#### Definición
+## Definición
 
 Estado contable que refleja las ganancias y pérdidas de un ente durante un período de tiempo. Está formado por todas las cuentas transitorias del período en cuestión. El resultado es la cuenta “Utilidades” que se ubica en el Patrimonio Neto y es la única cuenta transitoria del Balance.
 
@@ -93,7 +89,7 @@ Aspecto financiero se ve reflejado en la cuenta disponibilidades.
 
 Siempre se carga el precio al que uno compra, no al que vale.
 
-### Secciones
+# Secciones
 Tiene diversas secciones. 
 
 - Utilidad Bruta
@@ -106,7 +102,7 @@ Tiene diversas secciones.
 ![Cuadro](./imagenes/Secciones_Cuadro_Resultados.png)
 
 
-### Tipos de cuentas
+# Tipos de cuentas
 
 - Patrimoniales:
     - Activo
@@ -116,7 +112,7 @@ Tiene diversas secciones.
     - De resultados (ingreso / egreso)
     - De producción
 
-### Activo
+# Activo
 
 - Activo: bienes y derechos que posee la organización
 
@@ -128,7 +124,7 @@ derechos: pagar algo por adelantado
 
 - Activo no corriente: no pueden ser convertidos en efectivo en menos de un año.
 
-#### Cuentas patrimoniales del Activo
+## Cuentas patrimoniales del Activo
 
 - Activo corriente:
         - Disponibilidades (Caja y Bancos)
@@ -142,14 +138,14 @@ derechos: pagar algo por adelantado
         
 Solo pueden ser negativas amortizaciones acumuladas y cuenta utilidades (puede serlo, diferencia entre ingresos y egresos).
 
-### Pasivo
+# Pasivo
 
 - Pasivo: obligaciones hacia terceros que posee la organización.
 - Ordenamiento: se ordenan en orden de liquidez descendente y por tipo d e acreedor.
 - Pasivo corriente: exigibles en un plazo menor a un año.
 - Pasivo no corriente: no son exigibles en un plazo menor a un año.
 
-#### Cuentas patrimoniales del pasivo
+## Cuentas patrimoniales del pasivo
 
 - Pasivo corriente:
         - Deudas

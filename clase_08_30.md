@@ -1,32 +1,28 @@
-# EBT
+# Elasticidad
 
-## Clase 30/08
-
-### Elasticidad
-
-#### Definición
+## Definición
 
 Mide la sensibilidad de una variable con respecto a otra variable. Matemáticamente, es una cifra que nos indica la variación porcentual que experimentará una variable como respuesta a la variación de otra variable en un 1%.
 
-#### Elasticidad - Precio de la demanda
+## Elasticidad - Precio de la demanda
 
 Mide la sensibilidad de la cantidad demandada a las variaciones del precio. 
 
-Ep = (%ΔQ) / (%ΔP)
+$Ep = \frac{ \\% \Delta Q}{ \\% \Delta P}$
 
 También se puede expresar como
 
-Ep = P/Q *  ΔQ/ΔP
+$Ep = \frac{P}{Q} \cdot \frac{\Delta Q}{\Delta P}$
 
 Normalmente es una cifra negativa. Normalmente, cuando sube el precio de un bien -> cantidad demandada disminuye => ΔQ/ΔP es negativo.
 
 En general se trabaja con el valor absoluto de la elasticidad - precio.
 
-#### Tipos de demanda
+## Tipos de demanda
 
 ![Tipos de elasticidad-precio de la demanda](imagenes/tipos-elasticidades.png)
 
-### Mercados de competencia perfecta
+# Mercados de competencia perfecta
 
 Poseen las siguientes características:
 
@@ -36,9 +32,10 @@ Poseen las siguientes características:
 - No hay barreras de entrada y salida.
 - Ninguna empresa tiene el poder de mercado suficiente para influir en los precios.
 
-### Mercados de competencia imperfecta
+# Mercados de competencia imperfecta
+Este es el mundo real
 
-#### Monopolio
+## Monopolio
 
 - Una sola Empresa u Organización.
 - Se conoce toda la información con la que opera ese mercado.
@@ -48,7 +45,7 @@ Poseen las siguientes características:
 
 Ejemplo: WhatsApp.
 
-#### Oligopolio
+## Oligopolio
 
 - Pocas Empresas u Organizaciones (generalmente 2 ó 3).
 - No se conoce toda la información con la que opera ese mercado.
@@ -58,7 +55,7 @@ Ejemplo: WhatsApp.
 
 Ejemplo: Coca y Pepsi.
 
-#### Competencia monopólica
+## Competencia monopólica
 
 - Gran cantidad de Empresas u Organizaciones.
 - No se conoce toda la información con la que opera ese mercado.

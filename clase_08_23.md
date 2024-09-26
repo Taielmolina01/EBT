@@ -1,8 +1,4 @@
-# EBT
-
-## CLASE 23.08
-
-### Economía
+# Economía
 
     Ciencia social que estudia como se administran los recursos para satisfacer las necesidades humanas, siendo que son escasos los recursos, y las necesidades humanas tienden a infinito (siempre voy a volver a tener hambre por más que coma). Se logra a través de:
     
@@ -28,17 +24,17 @@ Tipos de economía:
 Son la gran mayoría mixtas, en menor o mayor medida.
 Ejemplos de economia de Estado: Cuba, Corea del Norte.
 
-#### Microeconomía: 
+## Microeconomía: 
 
 Estudia el comportamiento, acciones y decisiones de los agentes económicos individuales: personas, familias y organizaciones; y sus relaciones e interacciones en los mercados.
 
-#### Macroeconomía:
+## Macroeconomía:
 
 Estudia el comportamiento, la estructura y la capacidad de variables agregadas: Producto Bruto Interno, inflación, crecimiento económico, tasa de empleo y desempleo, tasa de interés, deuda privada y pública, etc.
 
 ![Economía positiva vs normativa](imagenes/tipos_economia.png)
 
-#### Factores de la producción
+## Factores de la producción
 
 Recursos empleados para producir los bienes y servicios destinados a satisfacer las necesidades humanas.
 
@@ -49,7 +45,7 @@ Recursos empleados para producir los bienes y servicios destinados a satisfacer 
 | Capital               | Interés      |
 | Empresario / Estado   | Beneficio    |
 
-#### Costo de oportunidad
+## Costo de oportunidad
 
 Es la cantidad de otros bienes o servicios a la que se debe renunciar para obtener un bien o servicio. Por ejemplo al decidir estudiar full time, se renuncia a un salario obtenido si decidieramos estudiar part time o directamente no estudiar.
 
@@ -71,7 +67,7 @@ PBI a precios constantes -> suma de los bienes pero a precios de un período bas
 
 ![PBI vs PBN vs](imagenes/pbi_vs_pbn_vs.png)
 
-### Finanzas
+# Finanzas
 
 Área de la Economía que estudia cómo se obtiene y administra el dinero. Incluye financiación, inversión, ahorro, tasas de interés y el valor tiempo del dinero; entre otros.
 
