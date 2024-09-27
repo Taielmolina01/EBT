@@ -62,4 +62,6 @@ El problema de trabajar con la TNA es que la información que brinda es incomple
 
 Es la tasa de interés que incluye la cantidad de veces que los intereses se capitalizan en el año. Son las tasas que realmente pagamos y/o cobramos y son las que nos interesa conocer.
 
+## Tasas equivalentes
 
+Tasas nominales distintas que al transformarlas a tasas efectivas en un mismo período de tiempo nos dan el mismo valor, estamos hablando que son tasas equivalentes.
