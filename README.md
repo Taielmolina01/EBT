@@ -8,3 +8,13 @@ Con aportes ocasionales y esporádicos de:
 
 ## Formato PDF
 [Resumen en formato pdf (1 solo archivo)](resumen.pdf "Tuki")
+
+## Generacion del PDF
+
+```shell
+./pdf.sh
+```
+
+Se necesita de:
+- pandoc
+- poppler
