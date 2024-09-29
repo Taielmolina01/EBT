@@ -8,7 +8,7 @@ Mide la sensibilidad de una variable con respecto a otra variable. Matemáticame
 
 Mide la sensibilidad de la cantidad demandada a las variaciones del precio. 
 
-$Ep = \frac{ \\% \Delta Q}{ \\% \Delta P}$
+$Ep = \frac{ \% \Delta Q}{ \% \Delta P}$
 
 También se puede expresar como
 
