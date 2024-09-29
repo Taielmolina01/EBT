@@ -5,3 +5,6 @@ Resumen creado por: [Taiel Molina](https://github.com/Taielmolina01 "El arquitec
 
 Con aportes ocasionales y esporádicos de: 
 - [Tomas Fabrizio Orsi 🍋](https://github.com/lima-limon-inc)
+
+## Formato PDF
+[Resumen en formato pdf (1 solo archivo)](resumen.pdf "Tuki")
