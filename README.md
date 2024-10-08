@@ -18,3 +18,7 @@ Con aportes ocasionales y esporádicos de:
 Se necesita de:
 - pandoc
 - poppler
+
+## Preguntas 
+- [Evaluacion de proyectos](clase_10_07): Los calculos son con la TIR o con la TREMA?
+
