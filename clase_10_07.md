@@ -53,9 +53,93 @@ El flujo de fondos en empresas se usa tanto para la evaluacion de proyectos como
 - Enfoque fiscal: ?
 
 ## Principio de Valuación de Activos
-Para tener una buena valoracion de un activo, tenemos que compararlo con un elemento "Equivalente". Es decir, un proyecto/inversion arriesgada de alta recaudacion tiene que ser comparada con una accion, una inversion conservadora con un bono  
+Para tener una buena valoracion de un activo, tenemos que compararlo con un elemento "Equivalente". Es decir, un proyecto/inversion arriesgada de alta recaudacion tiene que ser comparada con una accion, una inversion conservadora con un bono
 
 # Bonos
+- Instrumentos de **RENTA FIJA**.
+	- Tienen pactada una serie de condiciones incambiables. Una de ellas es la promesa de dinero que van a pagar. Genera beneficios fijos.
+- Paga paulatinamente **cupones**.	
+- El que lo emite es el ente pasivo y el que lo compra es el activo
+	- El que emite un bono lo **hace porque necesita financiamiento.** 
+- Los bonos tienen el poder de revenderse. 
+	- Ademas, su precio de reventa fluctua con el tiempo. ¿Por que? Porque "existe el riesgo" de que el ente que emitio el bono, no pueda pagarlo. Esto produce que su valor de reventa se reduzca. Ahora bien, si el ente que emitio el bono le esta yendo increible, es probable que el precio de reventa del bono aumente. RARO SERIA, que aumente *MAS* del valor que el bono promete.
+	- Cabe destacar que esto no es "totalmente lineal". Hay otros factores que afectan el precio de un bono. Por ejemplo, los bonos suelen tener un valor **inversamente proporcional a las tasas de interes.**
+	- Ahora, el valor de reventa puede superar su valor prometido. ¿Por que alguien lo compraria? Porque a  veces son la unica alternativa de inversion disponible en un momento dado. ESTO ES UN CASO EXTRAORDINARIO.
+	
+## Valuacion de bonos
+
+$P_o  = C \cdot F_i^n + \frac{VN}{(1+i)^n}$
+
+Con, $C = TC \cdot VN$ 
+
+- Po: Precio
+- C: Cupones.
+	- Es lo que va pagando el bono durante el periodo "de vida del bono"
+- VN: Valor Nominal
+- TC: Tasa Cupon
+- Fi: Factor. Se calcula igual que en sistema frances.
+
+## Tipos de bonos con clausulas
+- Bonos rescatables: el emisor tiene derecho a recomprarlo pagando una suma de dinero. El tenedor está obligado a entregarlo debido a la cláusula que lo compromete. Existe la posibilidad de **RECOMPRAR** el bono en caso de venderlo.
+- Bonos convertible: el tenedor tiene derecho a cambiarlos por acciones de la empresa. 
+- Bonos exentos de impuestos: poseen una situación impositiva ventajosa. 
+
+
+
+## Duracion de los bonos
+"Duration": La distancia entre el instante de analisis i el **baricentro** de los ingresos.
+
+Cuanto mas corta es la duration, mas atractivo es el bono. Mas rapido conseguis la guita, y el dinero "hoy" siempre es mejor que "manana" (Ver: Precio del dinero).
+
+Es analogo al baricentro de fisica o la esperanza de proba.
+
+$d = \frac{\displaystyle{\sum_{i=1}^n} i * f_i}{\displaystyle{\sum_{i=1}^n} f_i}$
+
+Siendo f_i el flujo de dinoero qau entrega el periodo i.
 
 # Acciones
+
+- Instrumentos de **renta variable**. 
+- Depende del desempeno de la empresa y como reparte beneficios.
+- El que lo emite es el ente pasivo y el que lo compra es el activo
+- Otorgan al titular la potestad de **votar en la junta de accionistas**.
+	- Tambien de participar en las decisiones economicas de la empresa.
+- Algunas empresas pagan dividendos a los tenedores.
+	- Concepto casi analogo a las cuotas de los bonos.
+
+## Valuacion de acciones
+Vimos dos metodos de valuar acciones.
+### PER
+$PER = \frac{PPA}{UPA}$
+
+Con la UPA:
+
+$UPA = \frac{\text{Utilidad neta}}{\#\text{Acciones}}$
+
+Siendo:
+
+- PPA: Precio por accion
+- UPA: Utilidad por accion. 
+
+**OJO**: EL PPA del mercado NO ES NECESARIAMENTE igual al valor de las acciones contables. El valor de mercado depende de la proyeccion a futuro de la empresa. 
+
+### Gordon
+Usa los dividendos de una accion
+
+$P_o = \displaystyle{\sum_{i=1}^n} \frac{D_i}{(1+r_s)^i}$
+
+Siendo:
+
+- r_s: La tasa esperada de rendimiento *minima* para que el inversor invierta. 
+- D_i: Dividendos
+
+#### Dividendos infinitos
+Cuando la proyección de dividendos se extiende al infinito y, suponiendo una tasa de crecimiento de dividendos constantes, calculamos el valor de la accion asi:
+
+$P_o = \frac{D_1}{(r_s - g)}$
+
+Con :
+
+- r_s: La tasa esperada de rendimiento *minima* para que el inversor invierta. 
+- g: Growith
 
