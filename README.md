@@ -19,6 +19,8 @@ Se necesita de:
 - pandoc
 - poppler
 
+**Nota**: Los indices del material no coinciden con los del archivo. Hay que sumar 1. 🥤🧄 
+
 ## Preguntas 
 - [Evaluacion de proyectos](clase_10_07): Los calculos son con la TIR o con la TREMA?
 
