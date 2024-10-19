@@ -1,32 +1,28 @@
-# EBT
+# Partida doble
 
-## Clase 9/9
-
-### Partida doble
-
-#### Definición
+## Definición
 
 Establece que todo hecho económico tiene su origen en otro hecho económico, de igual valor pero de naturaleza contraria. En cada movimiento contable, intervienen al menos dos cuentas: una de inversión y otra de financiamiento.
 
-#### Principios fundamentales
+## Principios fundamentales
 
 - El ente que recibe == deudor.
 - Ente que entrega == acreedor.
 - Las pérdidas se debitan y las ganancias se acreditan.
 
-### Devengamiento vs cobro/pago
+# Devengamiento vs cobro/pago
 
 Devengamiento: momento en el que se realiza una transacción económica, a pesar de que el cobro proveniente de esa venta sea en el futuro.
 
 Cobro (o pago): momento en el que ingresa (o egresa) el dinero proveniente de la transacción económica que lo originó.
 
-### Plan de cuentas vs Manual de cuentas
+# Plan de cuentas vs Manual de cuentas
 
 Plan: Ordenamiento y enumeración sistemático de todas las cuentas que se utilizan en la contabilidad de la organización.
 
 Manual: estructura del Plan incluyendo el análisis detallado de cada cuenta en particular, con todas sus variantes.
 
-### Libro Diario
+# Libro Diario
 
 Estado contable donde se registran los hechos económicos del día a día de un ente. Sirve para:
 
@@ -40,7 +36,7 @@ Las cuentas de activo cuando suben se colocan en el debe, cuando bajan se coloca
 
 Las cuentas de egreso cuando bajan se colocan en el debe, cuando suben se colocan en el haber.
 
-### Libro Mayor
+# Libro Mayor
 
 Estado contable donde se registran los movimientos de cada una de las cuentas de una organización por separado.
 
