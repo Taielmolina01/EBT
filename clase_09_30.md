@@ -4,7 +4,10 @@
 
 $(1+TEA)^1 = (1+TEM)^12 = (1+TEX)^Y$
 
-siendo TEX la tasa equivalente en un período determinado e Y la cantidad de veces que ese periódo entre en un año.
+Siendo:
+- TE: "Tasa de interes"
+- X: Siendo un periodo determinado (Anual, mensual, diaria, etc)
+- Y: Cantidad de capitalizaciones (Anual 1, mensual 12, diario 360/365 etc)
 
 ## Flujo de efectivos múltiples
 
@@ -23,8 +26,11 @@ Cuando un flujo múltiple de dinero cumple con:
 
 $VP = C \cdot f_i^n = C \cdot \dfrac{(1+i)^n-1}{(1+i)^n \cdot i}$
 
-C: cuota mensual a pagar
-f: factor (siempre menor a n)
+Siendo:
+
+- C: cuota mensual a pagar
+- f: factor (siempre menor a n)
+- n: periodos
 
 ## Perpetuidades
 
@@ -36,19 +42,28 @@ $VP = \dfrac{C}{i}$
 
 Un préstamo es una operación financiera en la cual un ente presta una cantidad de dinero determinada a otro ente y este se compromete a devolverlo mediante un documento legal que fija las cuotas, intereses, el tiempo en que debe devolverse y las penalidades en caso de incumplimiento.
 
-Prestamos se componen de cuotas y estas tienen dos partes: amortizaciones que representa el capital prestado y el interés que repsenta el costo de ese dinero prestado.
+Prestamos se componen de cuotas y estas tienen dos partes: **amortizaciones** que representa el **capital prestado** y el **interés** que repsenta el **costo de ese dinero prestado**.
 
-### Tipos
 
-#### Sistema francés
+### Sistema francés
 
-En cada período, el valor de la cuota es el mismo pero varía la proporción de amortización e interés: en las primeras cuotas la proporción de interés sobre la cuota es mayor y va disminuyendo período a período. 
+En cada período, el **valor de la cuota es constante**. Pero varía la proporción de amortización e interés: en las primeras cuotas la proporción de interés sobre la cuota es mayor y va disminuyendo período a período. 
 
 Los intereses que pago período a período se calculan en base a la amortización que me falta pagar.
 
-![Sistema francés](imagenes/sistema-frances.png)
+Este es el sistema mas usado. Lo que tiene de malo (o bueno para  el prestador) es que si no pagas la deuda, te duele mas.
 
-#### Sistema alemán
+![Sistema francés. En la imagen "capital" = amortizacion](imagenes/sistema-frances.png)
+
+
+Calculo interes i:
+$I_i = (P - \displaystyle{\sum_{i=1}^{i-1}}A_i) \cdot i$
+
+Calculo Amortizacion i:
+$A_i = C - I_i$
+
+
+### Sistema alemán
 
 En cada período, el valor de la cuota disminuye pero la amortización que se paga siempre es la misma.
 
@@ -58,7 +73,7 @@ Suele utilizarse para préstamos entre empresas.
 
 ![Sistema alemán](imagenes/sistema-aleman.png)
 
-#### Sistema bullet
+### Sistema bullet
 
 En cada período se paga la cuota que solo se compone del interés correspondiente y en el último período se paga todo el préstamo.
 
@@ -68,7 +83,7 @@ Suele utilizarse en grandes negocios en los que el dinero se cobra todo junto en
 
 ![Sistema bullet](imagenes/sistema-bullet.png)
 
-#### Sistema directo
+### Sistema directo
 
 Los intereses se calculan directamente sobre la deuda original. Hablamos de un sistema de amortización constante e intereses constantes.
 
@@ -84,6 +99,6 @@ Se deberá calcular cuál es la deuda en la fecha que se dejo de pagar. Esta sum
 
 Se debe revisar el cálculo de las tasas de interés. La tasa efectiva es nominal respecto de la inflacion; por lo tanto, debemos calcular el efecto de la inflación en las tasas para obtener la tasa real.
 
-$1 + tasa real = \dfrac{1 + tasa efectiva}{1 + tasa de inflación}$ 
+$1 + \text{Tasa real} = \frac{1 + \text{Tasa efectiva}}{1 + \text{Tasa de inflación}}$ 
 
 
