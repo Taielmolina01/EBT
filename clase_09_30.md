@@ -5,6 +5,7 @@
 $(1+TEA)^1 = (1+TEM)^{12} = (1+TEX)^Y$
 
 Siendo:
+
 - TE: "Tasa de interes"
 - X: Siendo un periodo determinado (Anual, mensual, diaria, etc)
 - Y: Cantidad de capitalizaciones (Anual 1, mensual 12, diario 360/365 etc)
