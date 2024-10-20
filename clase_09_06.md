@@ -56,9 +56,12 @@ El balance refleja:
 
 - Como fueron financiadas dichas inversiones (Pasivos + Patrimonio neto).
 
-Amortizaciones: 
+Amortizaciones:
+
   - Es la "Vida util contable" de un bien. Es **MENOR** que la vida útil real/técnica.
+  
   - Guita que la contabilidad cuenta (xd) que va perdiendo valor los productos del patrimonio de la empresa (las PC que utilizan los empleados por ejemplo). Cada año contable, algunos bienes van perdiendo valor contable.
+  
 	- El auto el primer año vale 5000. El año siguiente vale 4000. Así por 5 años hasta que pierde su valor contable (mas alla de que el auto esté impecable).
 
 Usamos amortización lineal, si algo está amortizado es que ya perdió todo su valor.
