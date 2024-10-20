@@ -89,7 +89,7 @@ Inversión = costo de largo plazo
 
 Demanda antecede a la oferta -> se acumulan por cada orden de trabajo.
 
-Oferta antecede a la oferta -> se acumulan en un inventario de producto terminado.
+Oferta antecede a la demanda -> se acumulan en un inventario de producto terminado.
 
 - Según el tiempo: 
 
