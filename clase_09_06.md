@@ -136,21 +136,21 @@ derechos: pagar algo por adelantado
 ## Cuentas patrimoniales del Activo
 
 - Activo corriente:
-        - Disponibilidades (Caja y Bancos)
-        - Inversiones.
-        - Créditos.
-        - Bienes de Cambio.
+    - Disponibilidades (Caja y Bancos)
+    - Inversiones.
+    - Créditos.
+    - Bienes de Cambio.
 - Activo no corriente:
-        - Bienes de uso.
-        - Amortizaciones acumuladas.
-        - Cargos diferidos.
+    - Bienes de uso.
+    - Amortizaciones acumuladas.
+    - Cargos diferidos.
         
 Solo pueden ser negativas amortizaciones acumuladas y cuenta utilidades (puede serlo, diferencia entre ingresos y egresos).
 
 # Pasivo
 
 - Pasivo: obligaciones hacia terceros que posee la organización.
-- Ordenamiento: se ordenan en orden de liquidez descendente y por tipo d e acreedor.
+- Ordenamiento: se ordenan en orden de liquidez descendente y por tipo de acreedor.
 - Pasivo corriente: exigibles en un plazo menor a un año.
 - Pasivo no corriente: no son exigibles en un plazo menor a un año.
 
