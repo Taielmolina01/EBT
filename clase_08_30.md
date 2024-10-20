@@ -66,3 +66,4 @@ Ejemplo: Coca y Pepsi.
 Ejemplo: Jeans.
 
 ![Tipos de mercados](imagenes/tipos-mercados.png)
+

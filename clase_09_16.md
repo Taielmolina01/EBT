@@ -81,4 +81,13 @@ La inversión viene del hecho de que ciertos gastos son consumidos en varios eje
 
 - Directos e indirectos: los directos se pueden rastrear directamente a un producto o servicio. Los indirectos no se pueden asignar directamente y se distribuyen entre varios productos o servicios.
 
-- De producción y operación: 
+- De producción y operación: los costos de producción están relacionados con la fabricación de productos, mientras que los costos de operación incluyen gastos administrativos y de ventas.
+
+## Importancia
+
+- Los costos son cruciales para determinar el precio de venta de un producto o servicio.
+- Ayudan a calcular el margen de contribución, que es la diferencia entre el precio de venta y los costos variables.
+- Facilitan la toma de decisiones, como la fijación de precios, la expansión de operaciones o la discontinuación de productos/servicios.
+
+![Triangulo de hierro](imagenes/triangulo-de-hierro.png)
+

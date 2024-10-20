@@ -90,3 +90,4 @@ Se clasifica en 4 grandes tipos:
 - Evitar que el tipo de cambio fluctue bruscamente.
 - Aumento de las tasas de interés-
 - Moderar la emisión monetaria.
+

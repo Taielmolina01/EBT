@@ -176,3 +176,4 @@ Cuentas transitorias de resultados
 - Ingresos
 - Egresos
 - Producción
+
