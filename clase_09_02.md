@@ -14,13 +14,17 @@ Tipos de dinero:
 ## Funciones
 
 A. Medio de pago: cuando es requerido con el solo propósito de usarlo para intercambiarlo por otras cosas.
+
 B. Unidad de cuenta: permite valorizar todos los bienes y servicios en una escala común.
+
 C. Depósito de valor: morada temporaria del poder de compra.
 
 ## Características
 
 1. Liquidez: capacidad de un activo de convertirse en dinero sin perder su valor. Mas liquido es -> mas capaz de convertirse en dinero 
+
 2. Rendimiento: remuneración debida a su posesión durante un determinado período de tiempo.
+
 3. Riesgo: evalúa la posibilidad de afectar su calidad como reserva de valor.
 
 ### Agregados monetarios
@@ -64,7 +68,9 @@ Esta la re conocemos (😎)
 ## Definición
 
 Aumento sostenido del nivel general de precios en la economía durante un determinado período de tiempo. Este proceso va disminuyendo el poder adquisitivo.
+
 Se clasifica en 4 grandes tipos:
+
 - Baja: <10% anual
 - Media: ~10% anual
 - Alta: >20% anual <!-- Argentina la cabra🐐 -->
