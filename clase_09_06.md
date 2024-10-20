@@ -157,8 +157,8 @@ Solo pueden ser negativas amortizaciones acumuladas y cuenta utilidades (puede s
 ## Cuentas patrimoniales del pasivo
 
 - Pasivo corriente:
-        - Deudas
-            - Bancarias
+    - Deudas
+    - Bancarias
             
 
 Diferencia entre deuda provisión y previsión
@@ -172,13 +172,18 @@ Deuda:
   - deuda xd. 
 
 Provision: 
-  - Ejemplo: Factura de luz perdida.
-  - No sabes *cuanto* tenes que pagar, pero si cuando. Pones una cantidad "provisionada", estimando cuanto te va a costar.
+
+- Ejemplo: Factura de luz perdida.
+  
+- No sabes *cuanto* tenes que pagar, pero si cuando. Pones una cantidad "provisionada", estimando cuanto te va a costar.
 
 Prevision: 
-  - Ejemplo: gasto por despido.
-  - Vos no sabes cuanto te va a costar (tal vez despedis a uno con mucha antigüedad y tiene mucha indemnizacion) ni cuando (puede que lo despidas ahora o en 7 meses).
-  - Vos carga la cuentas contablemente, no financiaramente. Es para planificar mejor. No es que "moves la guita".
+
+- Ejemplo: gasto por despido.
+  
+- Vos no sabes cuanto te va a costar (tal vez despedis a uno con mucha antigüedad y tiene mucha indemnizacion) ni cuando (puede que lo despidas ahora o en 7 meses).
+  
+- Vos carga la cuentas contablemente, no financiaramente. Es para planificar mejor. No es que "moves la guita".
 
 Cuentas transitorias de resultados
 
