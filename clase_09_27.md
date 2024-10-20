@@ -100,3 +100,4 @@ Los intereses se convierten en capital `n` veces al año. Algunos ejemplos:
 ## De TNA a TEA
 
 ![Ejemplo](imagenes/ejemplo_tea.png)
+
