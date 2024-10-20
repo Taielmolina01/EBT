@@ -14,7 +14,7 @@ Brindar información sobre:
 - Ejercicios pasados para realizar un análisis comparativo.
 - El ejercicio presente para determinar:
   - La situación económica:
-	 - Si la empresa es viable o no. Si hay rentabilidad y dinero para pagar las obligaciones.
+	- Si la empresa es viable o no. Si hay rentabilidad y dinero para pagar las obligaciones.
   - La situación Financiera:
 	- Cuanto dinero hay en caja
   - La situación Patrimonial.
@@ -28,32 +28,38 @@ Vigilar que no se aumente demasiado el gasto, ver cómo avanzan las ganancias, c
 
 - Hecho económico: 
 	- Es todo hecho que modifica el patrimonio del ente
-	- Un hecho de palabra **no** modifica el patrimonio, solo es como una _promesa_ de un hecho económico. Tiene que ser un hecho tanginble
+	- Un hecho de palabra **no** modifica el patrimonio, solo es como una _promesa_ de un hecho económico. Tiene que ser un hecho tangible
 
 - Patrimonio: totalidad de lo que posee un ente; es decir, bienes, derechos y obligaciones.
 
 - Estructura patrimonial: es como se estructuran los bienes, derechos y obligaciones en la Contabilidad.
 
-- Variaciones patrimoniales: movimientos en los informes contables originados por hechos ecónomicos.
+- Variaciones patrimoniales: movimientos en los informes contables originados por hechos económicos.
 
 # Balance
 
 Estado contable que refleja el estado patrimonial de un ente durante un período determinado. Es una _fotografía_ de los bienes, derechos y obligaciones de un ente en un instante determinado.
 
-Sigue la siguiente ecuacion:
+Sigue la siguiente ecuación:
+
 - Activo = Pasivo + Patrimonio Neto
+
   - Activo: Bienes y derechos de una empresa
+  
   - Pasivo: Obligaciones que tengo con terceros (Fisco, proveedores, sueldos de empleados, etc).
-  - Patrimonio neto: Obligacones con los accionistas y/o duenos.
+  
+  - Patrimonio neto: Obligaciones con los accionistas y/o duenos.
 
 El balance refleja:
+
 - Las inversiones del ente (Activos) 
+
 - Como fueron financiadas dichas inversiones (Pasivos + Patrimonio neto).
 
 Amortizaciones: 
-  - Es la "Vida util contable" de un bien. Es **MENOR** que la vida util real/tecnica.
+  - Es la "Vida util contable" de un bien. Es **MENOR** que la vida útil real/técnica.
   - Guita que la contabilidad cuenta (xd) que va perdiendo valor los productos del patrimonio de la empresa (las PC que utilizan los empleados por ejemplo). Cada año contable, algunos bienes van perdiendo valor contable.
-	- El auto el primer año vale 5000. El año siguiente vale 4000. Asi por 5 años hasta que pierde su valor contable (mas alla de que el auto esté impecable).
+	- El auto el primer año vale 5000. El año siguiente vale 4000. Así por 5 años hasta que pierde su valor contable (mas alla de que el auto esté impecable).
 
 Usamos amortización lineal, si algo está amortizado es que ya perdió todo su valor.
 
