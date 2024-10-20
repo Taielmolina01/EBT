@@ -42,11 +42,13 @@ Tasa activa y tasa pasiva
 
 - Base monetaria (C + R): Valor de todos los billetes y de todas las monedas que hay en una economia.
 
-
 - Oferta monetaria (C + D): Suma del efectivo en manos del publico y los saldos de los depositos a la vista de los hogares.
- - M1 (C + CC): Agreagado que sale de sumar a la oferta monetaria con los saldos de los depositos de ahorro propiedad de los hogares y de las empresas **NO FINANCIERAS**.
-    M2 (M1 + CA + PF < 1Y): Agregado de sumarle al M1 los saldos de los depositos a plazo propiedad de los hogares y de las empresas **NO FINANCIERAS**.
-    M3 (M2 + PF > 1Y): Engloba el M2 y las cesiones temporales de dinero, las particiones en fondos del mercado monetario y los valores que no sean acciones y tengan una vida no superior al 1 año.
+
+- M1 (C + CC): Agreagado que sale de sumar a la oferta monetaria con los saldos de los depositos de ahorro propiedad de los hogares y de las empresas **NO FINANCIERAS**.
+
+- M2 (M1 + CA + PF < 1Y): Agregado de sumarle al M1 los saldos de los depositos a plazo propiedad de los hogares y de las empresas **NO FINANCIERAS**.
+
+- M3 (M2 + PF > 1Y): Engloba el M2 y las cesiones temporales de dinero, las particiones en fondos del mercado monetario y los valores que no sean acciones y tengan una vida no superior al 1 año.
 
 ## Agentes
 
