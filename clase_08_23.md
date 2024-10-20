@@ -2,10 +2,10 @@
 
 Ciencia social que estudia como se administran los recursos para satisfacer las necesidades humanas, siendo que son escasos los recursos, y las necesidades humanas tienden a infinito (siempre voy a volver a tener hambre por más que coma). Se logra a través de:
     
-    - Producción
-    - Distribución
-    - Comercialización
-    - Consumo
+        - Producción
+        - Distribución
+        - Comercialización
+        - Consumo
     
 de bienes. 
 
@@ -24,11 +24,11 @@ Tipos de economía:
 Son la gran mayoría mixtas, en menor o mayor medida.
 Ejemplos de economia de Estado: Cuba, Corea del Norte.
 
-## Microeconomía: 
+## Microeconomía
 
 Estudia el comportamiento, acciones y decisiones de los agentes económicos individuales: personas, familias y organizaciones; y sus relaciones e interacciones en los mercados.
 
-## Macroeconomía:
+## Macroeconomía
 
 Estudia el comportamiento, la estructura y la capacidad de variables agregadas: Producto Bruto Interno, inflación, crecimiento económico, tasa de empleo y desempleo, tasa de interés, deuda privada y pública, etc.
 
@@ -65,7 +65,7 @@ El PBI mide el tamaño de una Economía. Es la suma de todos los bienes y servic
 
 PBI a precios constantes -> suma de los bienes pero a precios de un período base.
 
-![PBI vs PBN vs](imagenes/pbi_vs_pbn_vs.png)
+![PBI vs PBN vs PNI vs PNN](imagenes/pbi_vs_pbn_vs.png)
 
 # Finanzas
 

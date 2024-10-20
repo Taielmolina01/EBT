@@ -83,9 +83,13 @@ Las cantidades demandadas u ofrecidas no dependen únicamente del precio del bie
 QD = f(PBS, Y, PS, PC, X)
 
 PBS: precio del bien o servicio en cuestión.
+
 Y: ingreso disponible.
+
 PS: precio del bien o servicio sustituto.
+
 PC: precio del bien o servicio complementario.
+
 X: otras variables como gustos y preferencias del consumidor, tamaño del mercado, expectativas, etc.
 
 ## Función de oferta
@@ -93,6 +97,9 @@ X: otras variables como gustos y preferencias del consumidor, tamaño del mercad
 QO = f(PBS, PF, Z, X)
 
 PBS: precio del bien o servicio en cuestión.
+
 PF: precio de los factores de la producción.
+
 Z: la tecnología.
+
 X: la cantidad de organizaciones que ofrecen el mismo bien o servicio, expectativas económicas, etc.
