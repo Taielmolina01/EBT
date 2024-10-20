@@ -2,7 +2,7 @@
 
 ## Pasaje de tasas
 
-$(1+TEA)^1 = (1+TEM)^12 = (1+TEX)^Y$
+$(1+TEA)^1 = (1+TEM)^{12} = (1+TEX)^Y$
 
 Siendo:
 - TE: "Tasa de interes"
