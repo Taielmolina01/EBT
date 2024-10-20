@@ -21,32 +21,33 @@ Las ventajas *esteticas* y *emocional* son mas aplicables a productos de consumo
 ## Importancia
 - Eficiencia:
   - Mayor es el valor agregado, mayor puede llegar a ser la eficiencia de la empresa. Sobre todo (y principalmente) cuando hablamos de valor agregado funbcional. Ejemplo: Si una empresa tiene una maquina que el resto no, esto le va a dar una ventaja por sobre el resto.
-- Competitivadad
+- Competitividad
   - Mas valor agregado tiene un producto, mas competitivo lo hace. Mas motivos le da al consumidor de comprarlo.
 - Precio y Margen
-  - Cuanto mayor es el valor agregado, mayor es el precio que los consumidores estan dispuestos a pagar por el
-- Satisfaccion del cliente
+  - Cuanto mayor es el valor agregado, mayor es el precio que los consumidores están dispuestos a pagar por el
+- Satisfacción del cliente
   - Si el valor agregado se manifiesta en una mejor experiencia al cliente, mayor customizacion, mayor calidad, etc; el cliente queda mas contento. Y clientes contentos compran mas. <!-- Factos -->
 
-## Valor agregaod en el contexto de una EBT.
+## Valor agregado en el contexto de una EBT
+
 El valor agregado es la posta de la milanesa en las EBTs. Viven y mueren por el valor agregado que estas ofrecen por sobre otras.
 
-- Innovcacion tecnologica
-  - Las EBT basan su modelo de negocios en inovaciones tecnologicas unicas o disruptivas que anaden valor significativo.
-- Solucion de problemas complejos
+- Innovación tecnológica
+  - Las EBT basan su modelo de negocios en innovaciones tecnológicas únicas o disruptivas que anaden valor significativo.
+- Solución de problemas complejos
   - Se enfocan en resolver problemas complejos o mejoras significativas a las empresas. 
   - Es donde mas valor se puede añadir, ya que son los problemas mas dificiles de resolver.
 - Escalabilidad
-  - El valor agragado puede escalar rapidamente si la tecnologia  que lo desarrolla escala con el
-- Innovacion continua
+  - El valor agragado puede escalar rápidamente si la tecnología  que lo desarrolla escala con el
+- Innovación continua
   - Constantemente mejorando. Se busca que el siempre haya valor a añadir
 - Propiedad intelectual/Patentes
-  - Las EBTs pueden conseguir muchos fondos con el uso de patentes. Ademas, estan otorgan una ventaja competitiva por sobre la competencia.
-- Ecosistema tecnologico
-  - Las EBTs consigen valor incorporandose con otras plataformas/tecnologicas ya existentes.
-  - Si tu solucion se integra con soluciones ya existentes, es mas facil que se adapten estas soluciones.
+  - Las EBTs pueden conseguir muchos fondos con el uso de patentes. Ademas, están otorgan una ventaja competitiva por sobre la competencia.
+- Ecosistema tecnológico
+  - Las EBTs consiguen valor incorporandose con otras plataformas/tecnológicas ya existentes.
+  - Si tu solución se integra con soluciones ya existentes, es mas fácil que se adapten estas soluciones.
 
-# Incubacion y Asceleracion
+# Incubacion y Aceleracion
 
 ## Ecosistema de innovacion
 ![Triangulo de sabato](imagenes/triangulo_sabato.png "Triangulo de Sabato")
@@ -59,18 +60,18 @@ El valor agregado es la posta de la milanesa en las EBTs. Viven y mueren por el 
 - Competitivadad global. Ingresan a mercados globales mas competitivos donde se manejan divisas extranjeras. <!-- https://youtu.be/-E-FJjWfso8?si=gNwBWcewoYuXc7Qi&t=52 -->
 - Soluciones a problemas sociales
 
-## Incubadoras vs Asceleradores
+## Incubadoras vs Aceleradores
 Vamos a definirlos comparandolos <!-- Esto lo hace asi el profesor en clase. --> 
 - Incubadoras:
   - **Pensadas para la etapa temprana de una empresa. "Los comienzos"**.
 	- Esta es la principal diferencia
  - Suelen invertir dinero en la empresa, en la forma de compra de acciones/dueños de cierto porcentaje. Haciendose asi "socios"
-- Asceleradores:
+- Aceleradores:
   - **Pensadas para empresas que estan en el "medio de su vida" y quieren ascelear el crecimiento**.
 	- Esta es la principal diferencia
   - Ofrecen un servicio de apoyo y desarrollo a cambio de un pago por dichos servicios.
   - Muchas de estas son manejadas como fondo de inversion:
-	- Fonde de inversion: Vos pones tu guita en una "bolsa comun" y la empres aque maneja ese fondo lo invierte por vos; cobranod un porcentaje.
+	- Fonde de inversion: Vos pones tu guita en una "bolsa comun" y la empresa que maneja ese fondo lo invierte por vos; cobrando un porcentaje.
 	
 ### Proceso de Incubacion
 1. Identificación de una oportunidad tecnológica -> Idea
@@ -82,8 +83,8 @@ Vamos a definirlos comparandolos <!-- Esto lo hace asi el profesor en clase. -->
 6. Consideraciones legales y de propiedad intelectual
 7. Vigilancia tecnológica
 
-### Proceso de Asceleracion
-Acá no hay un orden tan "lineal" como en la encubacion
+### Proceso de Aceleracion
+Acá no hay un orden tan "lineal" como en la incubacion
 
 - Crecimiento Rápido -> Aceleración
 - Acceso a Recursos -> financiamiento privado y público
