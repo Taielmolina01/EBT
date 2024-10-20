@@ -43,6 +43,7 @@ Es el valor de este teniendo en cuenta que una misma suma de dinero vale más ho
 $VF = VP (1+i)^n$
 
 Con:
+
 - i: Tasa de interes
 - n o t: Periodos que evaluo
 
