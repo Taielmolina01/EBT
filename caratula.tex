@@ -1,15 +1,11 @@
 \documentclass{article}
-%\usepackage{blindtext} % Paquete lorem ipsum
 \usepackage{amsfonts}
 \usepackage{indentfirst}
 \usepackage{graphicx}
-\graphicspath{ {./imagenes/} }
-%\usepackage[margin=1cm]{geometry} % Centra el texto
-
-
+\graphicspath{{./imagenes/}}
+\usepackage[margin=1cm]{geometry} % Ajusta los márgenes de la página
 
 \begin{document}
-
 
 \begin{titlepage}
   \vspace*{1cm}
@@ -35,23 +31,22 @@
 
   \vspace{0.3cm}
   \begin{center}
-    {\Large{Autor:}}\\
-    \vspace{0.2cm}
-    Taiel Alexis Molina\\
-    {\small{email: tamolina@fi.uba.ar}}
+    {\Large{Autores:}}\\
+    \vspace{0.5cm}
+    \begin{minipage}{0.45\textwidth}
+      \centering
+      Taiel Alexis Molina\\
+      {\small{email: tamolina@fi.uba.ar}}
+    \end{minipage}%
+    \hspace{0.1cm} % Espacio entre los dos bloques
+    \begin{minipage}{0.45\textwidth}
+      \centering
+      Tomas Fabrizio Orsi\\
+      {\small{email: torsi@fi.uba.ar}}
+    \end{minipage}
   \end{center}
-   
-  \vspace{0.2cm}
-  \begin{center}
-    {\Large{Contribuyentes:}}\\
-    \vspace{0.6cm}
-    {\begin{minipage}{.5\textwidth}
-        \begin{center}
-          Tomas Fabrizio Orsi\\
-          {\small{email: torsi@fi.uba.ar}}
-        \end{center}
-      \end{minipage}}
-  \end{center}
+
 \end{titlepage}
 
 \end{document}
+

@@ -1,6 +1,6 @@
 # Economía
 
-    Ciencia social que estudia como se administran los recursos para satisfacer las necesidades humanas, siendo que son escasos los recursos, y las necesidades humanas tienden a infinito (siempre voy a volver a tener hambre por más que coma). Se logra a través de:
+Ciencia social que estudia como se administran los recursos para satisfacer las necesidades humanas, siendo que son escasos los recursos, y las necesidades humanas tienden a infinito (siempre voy a volver a tener hambre por más que coma). Se logra a través de:
     
     - Producción
     - Distribución
