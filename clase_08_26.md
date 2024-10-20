@@ -103,3 +103,5 @@ PF: precio de los factores de la producción.
 Z: la tecnología.
 
 X: la cantidad de organizaciones que ofrecen el mismo bien o servicio, expectativas económicas, etc.
+
+
