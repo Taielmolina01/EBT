@@ -74,7 +74,9 @@ Si un sacrificio no se puede expresar en dinero no es costo.
 Costo != inversion -> los diferencia el tiempo
 
 Costo = inversión de corto plazo
+
 Inversión = costo de largo plazo
+
 (omg recursion hi!)
 
 ## Clasificación
@@ -91,9 +93,9 @@ Oferta antecede a la oferta -> se acumulan en un inventario de producto terminad
 
 - Según el tiempo: 
 
-        - Historicos: costos incurridos en el pasado
-        - Reales: costos del período actual.
-        - Predeterminados: calculados en base a los historicos y reales para un período futuro
+    - Historicos: costos incurridos en el pasado
+    - Reales: costos del período actual.
+    - Predeterminados: calculados en base a los historicos y reales para un período futuro
         
 - Según su variabilidad: pueden ser proporcionales al nivel de producción como la materia prima o fijos como el alquiler de un galpón. Los semifijos son los que varían según el tiempo: el costo del servicio de un comedor en planta (no por el hecho de la inflación sino porque un mes se trabaja más otro menos).
 
