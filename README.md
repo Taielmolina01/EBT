@@ -24,3 +24,5 @@ Se necesita de:
 ## Preguntas 
 - [Evaluacion de proyectos](clase_10_07): Los calculos son con la TIR o con la TREMA?
 
+
+Los issues en GH muestran las clases que fueron revisadas
