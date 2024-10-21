@@ -10,6 +10,30 @@ Siendo:
 - X: Siendo un periodo determinado (Anual, mensual, diaria, etc)
 - Y: Cantidad de capitalizaciones (Anual 1, mensual 12, diario 360/365 etc)
 
+TEX termina siendo: $\frac{TNA}{Y}$. Termina quedando:
+
+$(1+\frac{TNA}{Y})^Y$
+
+### De TNA a TEA
+
+Ejemplos:
+
+```
+El Banco nos ofrece un plazo fijo con una TNA del 16% con capitalización trimestral. ¿Cuánto vale la TEA?
+```
+
+$(1 + TEA)^1 = (1 + \frac{TNA}{Y})^Y$
+
+¿Cuanto vale TNA? Vale 16%, nos lo dice el ejercicio.
+Estan hablando de una TNA.
+
+¿Cuanto vale Y? **OJO**. Dice que la capitalizacion es *trimestral*, es decir que yo capitalizo **CADA 3 meses**. NO capitalizo 3 veces nomas. $\text{Cantidad de capitalizaciones} = \frac{\text{Meses en el año = 12 meses}}{\text{3 meses}} = \text{4 meses}$. Es decir, capitalizo 4 veces.
+
+Queda entonces:
+
+$(1 + TEA)^1 = (1 + \frac{0.16}{4})^4 = 1.169 = 17\%$
+
+
 ## Flujo de efectivos múltiples
 
 Cuando se quiere conocer el valor presente o futuro de un flujo de dinero que posee diferentes valores, se llevan todos los flujos de dinero a la fecha buscada y se suman algebraicamente
