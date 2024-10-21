@@ -16,9 +16,9 @@ Por si solo, este valor no nos da toda la información necesaria. Necesitamos sa
 
 ## TREMA
 
-Tasa REquerida Mínima Aceptable. Es la tasa minima a la que estoy dispuesto a invertir.
+Tasa REquerida Mínima Aceptable. Es la tasa minima a la que los inversores estan dispuestan a invertir.
 
-$VAN = \displaystyle{\sum_{t=0}^\infty} \frac{- \text{Salidas de Casht} + \text{Entrasdas de Casht}}{(1 + TREMA)^t}$
+$VAN = \displaystyle{\sum_{t=0}^\infty} \frac{- \text{Salidas de Cash}_t + \text{Entrasdas de Cash}_t}{(1 + TREMA)^t}$
 
 De esta ecuacion salen otras sub-ecuaciones para determinar un valor dado otro. 
 
@@ -34,7 +34,7 @@ De aca despejas X (medida en una unidad de tiempo).
 
 # Flujo de Fondos
 
-El Flujos de Fondos (Cashflow) es un documento contable-financiero. Mide los movimientos de efectivo y las variaciones de éste en un período determinado. "Mide las entradas y salidas mes a mes/año a año/etc.
+El Flujos de Fondos (Cashflow) es un documento contable-financiero. Mide los **movimientos de efectivo y las variaciones de éste en un período determinado.** "Mide las entradas y salidas mes a mes/año a año/etc.
 
 Incluye entradas y salidas tanto del ahora como del futuro (los datos del futuro son proyecciones o *magia*🔮). 
 
@@ -56,18 +56,59 @@ El flujo de fondos en empresas se usa tanto para la evaluacion de proyectos como
 	1. Los "costos hundidos" no se incluyen en el flujo de fondos **DE UN PROYECTO**. Ejemplo: si haces un estudio de mercado ANTES de hacer el proyecto, este costo no va en flujo de fondos de analisis del proyecto. Este costo ya lo gastaste, lo hagas o no el proyecto el costo ese ya lo tenes.
 	2. Sin embargo, si iria en el flujo de costos de la empresa. Ojo al piojo.
 
+### Ejemplo
+
+Calcular la VAN, dado el siguiente proyecto:
+```
+- Vida comercial del Proyecto: 3 años.
+- Inversión en Bienes de Uso: $1200.
+- Vida Útil Técnica del Bien de Uso: 3 años.
+- Vida Útil Contable del Bien de Uso: 3 años.
+- Valor de Rezago Técnico del Bien de Uso: $230.
+- Valor de Rezago Contable del Bien de Uso: $120.
+- Ventas: $1500 por año.
+- Costos: $700 por año
+- Amortizaciones: $360 por año.
+- Utilidad por Venta de Bien de Uso (en el último año): $110.
+- Inversión en Capital de Trabajo Operativo: $135.
+- Valor del recupero del Capital de Trabajo Operativo: 90%.
+- TREMA: 10%.
+- Impuesto a las Ganancias: 30%.
+```
+Nota: Yo puse el signo "-", en el cuadro estaban sin el menos pero en rojo.
+
+| Periodo                      | 0      | 1     | 2     | 3      |
+|------------------------------|--------|-------|-------|--------|
+| Inversion Bien de Usos       | -1.200 |       |       | 230    |
+| Inversion KTop               | -135   |       |       | 121.50 |
+| Ventas                       |        | 1.500 | 1.500 | 1.500  |
+| Costos                       |        | -700  | -700  | -700   |
+| Impuesto a las ganancias 30% |        | -132  | -132  | -160   |
+|------------------------------|--------|-------|-------|--------|
+| Flujo de fondos              | -1.350 | 668   | 668   | 990.55 |
+
+
+Como se calcula la VAN de esto? Facil! Hay que hacer la suma de la diferencia de entrada de plata vs salida. Cada diferencia sobre 1 + TREMA (en decimal) elevado al periodo en el que estas.
+
+$VAN = \frac{-\$1335}{(1.1)^0} + \frac{\$668}{(1.1)^1} + \frac{\$668}{(1.1)^2} + \frac{\$990.55}{(1.1)^3} = \$568$
+
+Que significa esto? Esto indica que este proyecto tiene un valor actual neto de 568 pesos. Esto quiere decir, que si hay otro proyecto con un valor neto positivo mayor, conviene hacer ese proyecto en vez de este.
+
+
 ## Enfoques
 
 - Enfoques descendente:  primero se colocan las ventas, luego los costos y finalmente los impuestos a las ganancias.
 - Enfoque ascendente: ?
 - Enfoque fiscal: ?
 
+
 ## Principio de Valuación de Activos
 
-Para tener una buena valoracion de un activo, tenemos que compararlo con un elemento "Equivalente". Es decir, un proyecto/inversion arriesgada de alta recaudacion tiene que ser comparada con una accion, una inversion conservadora con un bono
+Para tener una buena valoracion de un activo, tenemos que compararlo con un elemento "Equivalente". Es decir, un proyecto/inversion arriesgada de alta recaudacion tiene que ser comparada con una accion, una inversion conservadora con un bono. 
 
 # Bonos
 
+- Lo emiten empresas, o estados-nacion (paises, provincias, etc).
 - Instrumentos de **RENTA FIJA**.
 	- Tienen pactada una serie de condiciones incambiables. Una de ellas es la promesa de dinero que van a pagar. Genera beneficios fijos.
 - Paga paulatinamente **cupones**.	
@@ -99,13 +140,14 @@ Con, $C = TC \cdot VN$
 
 ## Duracion de los bonos
 
-"Duration": La distancia entre el instante de analisis i el **baricentro** de los ingresos.
+"Duration": La distancia entre el instante de analisis y el **baricentro** de los ingresos.
 
+Muestra cuánto tiempo, en una unidad de tiempo (normalmente años), tarda un bono en repagar su precio, de acuerdo a su flujo de fondos.
 Cuanto mas corta es la duration, mas atractivo es el bono. Mas rapido conseguis la guita, y el dinero "hoy" siempre es mejor que "manana" (Ver: Precio del dinero).
 
 Es analogo al baricentro de fisica o la esperanza de proba.
 
-$d = \frac{\displaystyle{\sum_{i=1}^n} i * f_i}{\displaystyle{\sum_{i=1}^n} f_i}$
+$d = \frac{\displaystyle{\sum_{i=1}^n} i * f_i}{P = \displaystyle{\sum_{i=1}^n} f_i}$
 
 Siendo f_i el flujo de dinoero qau entrega el periodo i.
 
