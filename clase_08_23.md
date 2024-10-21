@@ -2,7 +2,17 @@
 
 # Empresas de Base Tecnológica
 
+Los spin off son iniciativas empresariales que están promovidas por académicos/profesionales que deciden iniciar el camino emprendedor para que las capacidades o tecnologías que han desarrollado se puedan poner a disposición de la sociedad, a partir de su comercialización. Estas empresas basan su actividad en la producción y venta de nuevos procesos, productos o servicios de alto valor agregado que parten del conocimiento adquirido o los resultados obtenidos en el ámbito de la propia Universidad.
 
+Proceso de creación de una EBT
+
+- Identificación de una oportunidad tecnológica
+- Validación del mercado: investigación de mercado, análisis de competidores y evaluación de la demanda
+- Formación de un equipo multidisciplinario
+- Desarrollo tecnológico: investigación y desarrollo, iteraciones y mejoras
+- Búsqueda de financiamiento y recursos - Incubación y aceleración
+- Consideraciones legales y de propiedad intelectual
+- Vigilancia tecnológica
 
 # Economía
 
