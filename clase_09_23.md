@@ -55,6 +55,7 @@ El valor agregado es la posta de la milanesa en las EBTs. Viven y mueren por el 
 ## Ecosistema de innovacion
 
 ![Triangulo de sabato](imagenes/triangulo_sabato.png "Triangulo de Sabato")
+
 - Es el entorno colaborativo compuesto por actores que se relacionan entre sí.
 - Interacuan de manera sinergica para impulsar la innovacion, crecimiento y la competitivdad. 
 - Las EBTS **viven en este triangulo**. Interactuan con los 3 ejes
