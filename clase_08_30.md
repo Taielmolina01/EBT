@@ -18,9 +18,17 @@ Normalmente es una cifra negativa. Normalmente, cuando sube el precio de un bien
 
 En general se trabaja con el valor absoluto de la elasticidad - precio.
 
-## Tipos de demanda
+## Tipos de elasticidad-Precio de la demanda
 
 ![Tipos de elasticidad-precio de la demanda](imagenes/tipos-elasticidades.png)
+
+### Ejemplos
+
+- Demanda perfectamente inelástica: pan.
+- Demanda inelástica: electricidad.
+- Demanda unitaria: casos particulares.
+- Demanda elástica: pasajes de avión.
+- Demanda perfectamente elástica: frutas y verduras (caso ideal).
 
 # Mercados de competencia perfecta
 
@@ -33,6 +41,7 @@ Poseen las siguientes características:
 - Ninguna empresa tiene el poder de mercado suficiente para influir en los precios.
 
 # Mercados de competencia imperfecta
+
 Este es el mundo real
 
 ## Monopolio
