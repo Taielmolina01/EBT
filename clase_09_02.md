@@ -44,11 +44,11 @@ Tasa activa y tasa pasiva
 
 - Oferta monetaria (C + D): Suma del efectivo en manos del publico y los saldos de los depositos a la vista de los hogares.
 
-- M1 (C + CC): Agreagado que sale de sumar a la oferta monetaria con los saldos de los depositos de ahorro propiedad de los hogares y de las empresas **NO FINANCIERAS**.
+- M1 (C + CC): Agregado que sale de sumar a la oferta monetaria con los saldos de los depositos de ahorro propiedad de los hogares y de las empresas **NO FINANCIERAS**.
 
 - M2 (M1 + CA + PF < 1Y): Agregado de sumarle al M1 los saldos de los depositos a plazo propiedad de los hogares y de las empresas **NO FINANCIERAS**.
 
-- M3 (M2 + PF > 1Y): Engloba el M2 y las cesiones temporales de dinero, las particiones en fondos del mercado monetario y los valores que no sean acciones y tengan una vida no superior al 1 año.
+- M3 (M2 + PF > 1Y): Engloba el M2 y las cesiones temporales de dinero, las particiones en fondos del mercado monetario y los valores que no sean acciones y tengan una vida no superior a 1 año.
 
 ## Agentes
 
@@ -56,7 +56,9 @@ Tasa activa y tasa pasiva
 
 ## Motivos de demanda de dinero
 
-Transacciones precaución y especulación.
+- Transacciones.
+- Precaución.
+- Especulación.
 
 ## Tasas de interés
 
@@ -82,7 +84,7 @@ Se clasifica en 4 grandes tipos:
 
 - Inflación de **demanda**: se origina por un aumento en la demanda agregada por encima de la oferta agregada. Puede ser por un aumento en el consumo, la inversión, el gasto de gobierno, el salario real, la oferta monetaria o una disminución de los impuestos.
 
-- Inflación de **costos**: se origina por un aumento en los precios. Puede ser por un aumento del salario nominal, un aumento del Mark Up o una disminución de la productiWvidad.
+- Inflación de **costos**: se origina por un aumento en los precios. Puede ser por un aumento del salario nominal, un aumento del Mark Up o una disminución de la productividad.
 
 - Inflación **Inercial**: se origina por las expectativas que tienen los agentes económicos de que se repita la inflación de los períodos anteriores. 
 
@@ -96,6 +98,6 @@ Se clasifica en 4 grandes tipos:
 - Corrección de los precios relativos.
 - Metas de inflación reales.
 - Evitar que el tipo de cambio fluctue bruscamente.
-- Aumento de las tasas de interés-
+- Aumento de las tasas de interés.
 - Moderar la emisión monetaria.
 
