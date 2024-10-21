@@ -92,6 +92,8 @@ PC: precio del bien o servicio complementario.
 
 X: otras variables como gustos y preferencias del consumidor, tamaño del mercado, expectativas, etc.
 
+Si aumenta la demanda desplaza la curva a derecha, si disminuye a izquierda.
+
 ## Función de oferta
 
 QO = f(PBS, PF, Z, X)
@@ -103,5 +105,7 @@ PF: precio de los factores de la producción.
 Z: la tecnología.
 
 X: la cantidad de organizaciones que ofrecen el mismo bien o servicio, expectativas económicas, etc.
+
+Si aumenta la oferta desplaza la curva a derecha, si disminuye a izquierda.
 
 
