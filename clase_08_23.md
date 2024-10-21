@@ -67,6 +67,8 @@ Es la cantidad de otros bienes o servicios a la que se debe renunciar para obten
 
 La frontera de posibilidades de producción muestra el óptimo de producción entre dos bienes. Hay que decidir entre los puntos óptimos cuál de ellos nos conviene más, nos redituará a futuro, siendo todos igual de eficientes.
 
+![Curva de costo de oportunidad](imagenes/curva-costo-oportunidad.png)
+
 Formas de aumentar la frontera de posibilidades de producción:
 
 - Aumento del capital.
