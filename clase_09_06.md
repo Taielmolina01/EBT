@@ -1,4 +1,5 @@
 # Contabilidad
+
 Creada por [Fray Luca Pacioli](https://es.wikipedia.org/wiki/Luca_Pacioli) 
 
 ## Definición
@@ -159,33 +160,46 @@ Solo pueden ser negativas amortizaciones acumuladas y cuenta utilidades (puede s
 - Pasivo corriente:
     - Deudas
     - Bancarias
-            
+       
+## Deuda vs Provisión vs Previsión
+       
+Deuda: 
 
-Diferencia entre deuda provisión y previsión
+- Obligación cierta con monto y fecha determinados.
+  
+- Ejemplo: me llegó la factura de luz.
+
+Provisión: 
+
+- No sabes *cuanto* tenes que pagar, pero si cuando. Pones una cantidad "provisionada", estimando cuanto te va a costar.
+
+- Ejemplo: Factura de luz perdida.
+
+Previsión: 
+
+- Vos no sabes cuanto te va a costar (tal vez despedís a uno con mucha antigüedad y tiene mucha indemnización) ni cuando (puede que lo despidas ahora o en 7 meses).
+  
+- Vos carga la cuentas contablemente, no financiaramente. Es para planificar mejor. No es que "moves la guita".
+
+- Ejemplo: gasto por despido.
+  
 
 |          |  Deuda   | Provisión | Previsión |        
 |----------|----------|-----------|-----------|
 | ¿Conozco el monto a pagar? |    Si    |     No    |    No     |
 | ¿Conozco la fecha de pago?   |    Si    |     Si    |    No     |
 
-Deuda: 
-  - deuda xd. 
+## Cuentas patrimoniales del patrimonio neto
 
-Provision: 
+- Capital.
+- Reservas.
+    - Legal.
+    - Especial.
+    - Estatutaria.
+    - Facultativa.
+- Resultados.
 
-- Ejemplo: Factura de luz perdida.
-  
-- No sabes *cuanto* tenes que pagar, pero si cuando. Pones una cantidad "provisionada", estimando cuanto te va a costar.
-
-Prevision: 
-
-- Ejemplo: gasto por despido.
-  
-- Vos no sabes cuanto te va a costar (tal vez despedis a uno con mucha antigüedad y tiene mucha indemnizacion) ni cuando (puede que lo despidas ahora o en 7 meses).
-  
-- Vos carga la cuentas contablemente, no financiaramente. Es para planificar mejor. No es que "moves la guita".
-
-Cuentas transitorias de resultados
+## Cuentas transitorias de resultados
 
 - Ingresos
 - Egresos

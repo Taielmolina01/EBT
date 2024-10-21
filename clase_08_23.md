@@ -18,10 +18,10 @@ Proceso de creación de una EBT
 
 Ciencia social que estudia como se administran los recursos para satisfacer las necesidades humanas, siendo que son escasos los recursos, y las necesidades humanas tienden a infinito (siempre voy a volver a tener hambre por más que coma). Se logra a través de:
     
-        - Producción
-        - Distribución
-        - Comercialización
-        - Consumo
+- Producción
+- Distribución
+- Comercialización
+- Consumo
     
 de bienes. 
 
@@ -66,6 +66,8 @@ Recursos empleados para producir los bienes y servicios destinados a satisfacer 
 Es la cantidad de otros bienes o servicios a la que se debe renunciar para obtener un bien o servicio. Por ejemplo al decidir estudiar full time, se renuncia a un salario obtenido si decidieramos estudiar part time o directamente no estudiar.
 
 La frontera de posibilidades de producción muestra el óptimo de producción entre dos bienes. Hay que decidir entre los puntos óptimos cuál de ellos nos conviene más, nos redituará a futuro, siendo todos igual de eficientes.
+
+![Curva de costo de oportunidad](imagenes/curva-costo-oportunidad.png)
 
 Formas de aumentar la frontera de posibilidades de producción:
 
