@@ -76,19 +76,19 @@ Se clasifica en 4 grandes tipos:
 - Baja: <10% anual
 - Media: ~10% anual
 - Alta: >20% anual <!-- Argentina la cabra🐐 -->
-- Hiperinflacion: >50% anual
+- Hiperinflación: >50% anual
 
 ## Tipos
 
-- Inflacion de **demanda**: se origina por un aumento en la demanda agregada por encima de la oferta agregada. Puede ser por un aumento en el consumo, la inversión, el gasto de gobierno, el salario real, la oferta monetaria o una disminución de los impuestos.
+- Inflación de **demanda**: se origina por un aumento en la demanda agregada por encima de la oferta agregada. Puede ser por un aumento en el consumo, la inversión, el gasto de gobierno, el salario real, la oferta monetaria o una disminución de los impuestos.
 
-- Inflación de **costos**: se origina por un aumento en los precios. Puede ser por un aumento del salario nominal, un aumento del Mark Up o una disminución de la productividad.
+- Inflación de **costos**: se origina por un aumento en los precios. Puede ser por un aumento del salario nominal, un aumento del Mark Up o una disminución de la productiWvidad.
 
 - Inflación **Inercial**: se origina por las expectativas que tienen los agentes económicos de que se repita la inflación de los períodos anteriores. 
 
-- Inflación Estructural: Aumento de los precios producto de atrasos en la estructura productiva. El problema productivo se traslada al resto de la economia. Si no hay desarrollo tecnologico, la economia se estanca tambien generando inflacion.
+- Inflación **Estructural**: Aumento de los precios producto de atrasos en la estructura productiva. El problema productivo se traslada al resto de la economía. Si no hay desarrollo tecnológico, la economía se estanca también generando inflación.
 
-- Inflacion por Politica Monetaria: La oferta de dinero crece a una tasa superior a la demanda de dinero.
+- Inflación por **Política Monetaria**: La oferta de dinero crece a una tasa superior a la demanda de dinero.
 
 ## Soluciones para bajar la inflación
 
