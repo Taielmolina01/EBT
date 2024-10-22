@@ -4,9 +4,6 @@
 
 Representa el conjunto de actividades que una empresa realiza para crear, producir y entregar un producto o servicio específico a sus clientes.
 
-
-
-
 ## Importancia
 
 Ayuda a las empresas a comprender cómo se crean los costos y el valor en cada etapa del proceso, lo que facilita la identificación de áreas de mejora de eficiencia, reducción de costos o diferenciar el producto, para obtener ventajas competitivas.
@@ -17,10 +14,7 @@ Ayuda a las empresas a comprender cómo se crean los costos y el valor en cada e
 
 **De apoyo**: respaldan a las actividades primarias y son fundamentales para la eficiencia de toda la cadena de valor.
 
-
-
 ![Tipos de actividadesi](imagenes/tipos-acts.png)
-
 
 Concepto medio aparte:
 

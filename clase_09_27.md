@@ -19,8 +19,8 @@ Valor de una empresa
 
 $V = \displaystyle{\sum_{t=1}^{\infty}} \frac{FF_t}{(1 + \text{Costo del dinero})^t}$
 
-
 Con:
+
 - V: Valor de una empresa
 - FFt: Flujos de Fondos. Todo el dinero que entra y sale
 - Costo del dinero: Tasa de interes
@@ -109,6 +109,7 @@ Tasas nominales distintas que al transformarlas a tasas efectivas en un mismo pe
 
 ## Capitalizaciones
 Los intereses se convierten en capital `n` veces al año. Algunos ejemplos:
+
 - Trimestral: Se capitaliza 4 veces al año.
 - Mensual: Se capitaliza 12 veces al año.
 - Anual: Se capitaliza 1 vez al año.

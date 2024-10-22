@@ -43,6 +43,8 @@ Sistema de información que registra todos los hechos económicos de una empresa
 
 Para suministrar información para la toma de decisiones racionales en pos del crecimiento de la eficacia y eficiencia de una empresa.
 
+## Motivos de los costos
+
 - Calcular los costos unitarios.
 - Valuar los inventarios.
 - Determinar políticas de precio.
@@ -50,8 +52,6 @@ Para suministrar información para la toma de decisiones racionales en pos del c
 - Gestionar la empresa.
 - Planear las cantidades a comprar, producir e inventariar.
 - Planear necesidades de recursos y el financiamiento necesario.
-
-## Motivos de los ctos
 
 # Tipos de empresas
 

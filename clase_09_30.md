@@ -18,16 +18,16 @@ $(1+\frac{TNA}{Y})^Y$
 
 Ejemplos:
 
-```
-El Banco nos ofrece un plazo fijo con una TNA del 16% con capitalización trimestral. ¿Cuánto vale la TEA?
-```
+
+_El Banco nos ofrece un plazo fijo con una TNA del 16% con capitalización trimestral. ¿Cuánto vale la TEA?_
+
 
 $(1 + TEA)^1 = (1 + \frac{TNA}{Y})^Y$
 
 ¿Cuanto vale TNA? Vale 16%, nos lo dice el ejercicio.
 Estan hablando de una TNA.
 
-¿Cuanto vale Y? **OJO**. Dice que la capitalizacion es *trimestral*, es decir que yo capitalizo **CADA 3 meses**. NO capitalizo 3 veces nomas. $\text{Cantidad de capitalizaciones} = \frac{\text{Meses en el año = 12 meses}}{\text{3 meses}} = \text{4 meses}$. Es decir, capitalizo 4 veces.
+¿Cuanto vale Y? **OJO**. Dice que la capitalizacion es *trimestral*, es decir que yo capitalizo **CADA 3 meses**. NO capitalizo 3 veces nomas. $\text{Cantidad de capitalizaciones} = \frac{\text{Meses en el año = 12 meses \cdot 1 capitalización}}{\text{3 meses}} = \text{4 capitalizaciones}$
 
 Queda entonces:
 

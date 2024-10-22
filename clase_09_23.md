@@ -57,7 +57,7 @@ El valor agregado es la posta de la milanesa en las EBTs. Viven y mueren por el 
 ![Triangulo de sabato](imagenes/triangulo_sabato.png "Triangulo de Sabato")
 
 - Es el entorno colaborativo compuesto por actores que se relacionan entre sí.
-- Interacuan de manera sinergica para impulsar la innovacion, crecimiento y la competitivdad. 
+- Interactuan de manera sinergica para impulsar la innovación, crecimiento y la competitivdad. 
 - Las EBTS **viven en este triangulo**. Interactuan con los 3 ejes
 
 ### Beneficios
@@ -80,6 +80,7 @@ Vamos a definirlos comparandolos <!-- Esto lo hace asi el profesor en clase. -->
 	    - Fondo de inversion: Vos pones tu guita en una "bolsa comun" y la empresa que maneja ese fondo lo invierte por vos; cobrando un porcentaje.
 	
 ### Proceso de Incubacion
+
 1. Identificación de una oportunidad tecnológica -> Idea
 2. Validación del modelo de negocio -> investigación de mercado, análisis de competidores y evaluación de la demanda. 
 3. Mentoría y asesoramiento -> Formación de un equipo multidisciplinario
