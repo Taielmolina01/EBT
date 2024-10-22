@@ -37,6 +37,11 @@ Las cuentas de activo cuando suben se colocan en el debe, cuando bajan se coloca
 
 Las cuentas de egreso cuando bajan se colocan en el debe, cuando suben se colocan en el haber.
 
+Más claro se coloca en:
+
+- Debe: destino que se le da a los recursos.
+- Haber: origen que se le da a los recursos.
+
 # Libro Mayor
 
 Estado contable donde se registran los movimientos de cada una de las cuentas de una organización por separado.
