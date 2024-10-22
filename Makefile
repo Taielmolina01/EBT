@@ -6,3 +6,5 @@ toPNG:
 
 readme: toPNG
 	./HelperShellScripts/pngsToReadme.sh resumen-en-pngs resumen.pdf
+
+all: compile readme
