@@ -9,6 +9,7 @@ Establece que todo hecho económico tiene su origen en otro hecho económico, de
 - El ente que recibe == deudor.
 - Ente que entrega == acreedor.
 - Las pérdidas se debitan y las ganancias se acreditan.
+- Todo valor que entra es igual al valor que sale.
 
 # Devengamiento vs cobro/pago
 

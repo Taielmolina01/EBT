@@ -1,3 +1,5 @@
+
+
 # Finanzas
 
 ## Definición
@@ -12,10 +14,14 @@ El objetivo de la empresa es **maximizar el valor de la misma** y la toma de dec
 
 No es conveniente utilizar como objetivo la maximización de utilidades ($/periodo) por la ambigüedad del período de referencia, la omisión de considerar el riesgo de dicha utilidad y por la no consideración de los negocios futuros en la meta.
 
+
+Valor de una empresa
+
 $V = \displaystyle{\sum_{t=1}^{\infty}} \frac{FF_t}{(1 + \text{Costo del dinero})^t}$
 
 
 Con:
+- V: Valor de una empresa
 - FFt: Flujos de Fondos. Todo el dinero que entra y sale
 - Costo del dinero: Tasa de interes
 - t: Periodos que evaluo
@@ -44,6 +50,8 @@ $VF = VP (1+i)^n$
 
 Con:
 
+- VF: Valor futuro
+- VP: Valor presente
 - i: Tasa de interes
 - n o t: Periodos que evaluo
 
@@ -83,6 +91,13 @@ Es la tasa de interés que se declara en las operaciones financieras, en la docu
 
 El problema de trabajar con la TNA es que la información que brinda es incompleta ya que no menciona la cantidad de veces que los intereses se capitalizan en el año.
 
+Se usa solamente como una medida para tener una idea de magnitud
+
+¿Como usas la TNA para calcular el valor a futuro?
+(Es la misma formula que el interes compuesto)
+
+$VF = VP * (1 + (\frac{TNA}{m})^m)$
+
 ## Tasa Efectiva Anual
 
 Es la tasa de interés que incluye la cantidad de veces que los intereses se capitalizan en el año. Son las tasas que realmente pagamos y/o cobramos y son las que nos interesa conocer.
@@ -98,7 +113,4 @@ Los intereses se convierten en capital `n` veces al año. Algunos ejemplos:
 - Mensual: Se capitaliza 12 veces al año.
 - Anual: Se capitaliza 1 vez al año.
 
-## De TNA a TEA
-
-![Ejemplo](imagenes/ejemplo_tea.png)
 

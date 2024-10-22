@@ -4,15 +4,23 @@
 
 Representa el conjunto de actividades que una empresa realiza para crear, producir y entregar un producto o servicio específico a sus clientes.
 
+
+
+
 ## Importancia
 
 Ayuda a las empresas a comprender cómo se crean los costos y el valor en cada etapa del proceso, lo que facilita la identificación de áreas de mejora de eficiencia, reducción de costos o diferenciar el producto, para obtener ventajas competitivas.
 
-## Actividades
+## Estructura / Tipos de Actividades
 
 **Primarias**: están directamente involucradas en la creación y entrega del producto o servicio.
 
 **De apoyo**: respaldan a las actividades primarias y son fundamentales para la eficiencia de toda la cadena de valor.
+
+
+
+![Tipos de actividadesi](imagenes/tipos-acts.png)
+
 
 Concepto medio aparte:
 
@@ -30,7 +38,7 @@ Concepto medio aparte:
 
 ## Definición
 
-Interconexión entre las cadenas de valor de múltiples empresas que trabajan juntas para crear valor. Incluye a la empresa principal, proveedores, distribuidores y otros actores clave en la industria.
+Interconexión **entre las cadenas de valor de múltiples empresas que trabajan juntas para crear valor.** Incluye a la empresa principal, proveedores, distribuidores y otros actores clave en la industria.
 Abarca todo el ecosistema de negocios que influye en la capacidad de una empresa para ofrecer valor.
 
 ## Estrategias
@@ -47,6 +55,13 @@ Abarca todo el ecosistema de negocios que influye en la capacidad de una empresa
 
 Son limitaciones o restricciones en un proceso que ralentizan el flujo de trabajo, reduciendo la eficiencia general. Pueden ocurrir en cualquier parte de una cadena de producción y su impacto es significativo, ya que impiden que el sistema funcione a su máxima capacidad.
 
+Pueden ser **temporales o permanentes.**
+
+## Características
+1. Limitación en la capacidad: Una parte del proceso tiene menos capacidad o velocidad que las etapas anteriores o posteriores. Por esto, **se acumulen tareas o productos pendientes** en esa fase.
+2. Reducción del rendimiento general: La **eficiencia del proceso completo está determinada por el ritmo del cuello** de botella. Aunque otras etapas sean más rápidas, el cuello de botella limita el rendimiento total.
+3. Generación de acumulación: En un flujo de trabajo, los cuellos de botella provocan que el trabajo o los productos se acumulen antes de llegar a la etapa limitada, lo que puede causar sobrecarga o interrupciones.
+
 # Costo
 
 ## Definición
@@ -61,7 +76,7 @@ Una correcta contabilización de costos es básica a la hora de establecer proye
 
 ## Definición
 
-Bienes y servicios adquiridos para la actividad de una empresa, es un concepto asociado al momento de la adquisición de los factores, a diferencia del costo que es el gasto consumido en la actividad productiva.
+Bienes y servicios adquiridos para la actividad de una empresa. Es un concepto asociado al momento de la adquisición de los factores, a diferencia del costo que es el gasto consumido en la actividad productiva.
 
 Los costos se capitalizan, los gastos no.
 

@@ -1,0 +1,3 @@
+[submodule "HelperShellScripts"]
+	path = HelperShellScripts
+	url = git@github.com:lima-limon-inc/HelperShellScripts.git

@@ -1,7 +1,7 @@
 # Valor agregado
 
 - No refiere al impuesto IVA
-- Se refiere a la diferencia entre el valor total de los insumos/materia prima para producir el bien/servicio/el valor total del producto final.
+- Se refiere a la diferencia entre el valor total de los insumos/materia prima para producir el bien/servicio y el valor total del producto final.
 - **No es la ganancia**. La ganancia es un concepto monetario, el valor agregado suele tener que ver con un concepto no tangible. 
 	- Esta mas relacionado al concepto de ventaja competitiva
 - Es el valor que se agrega a traves del proceso de produccion o servicio y representa **el aumento en el valor del producto**.
@@ -63,7 +63,7 @@ El valor agregado es la posta de la milanesa en las EBTs. Viven y mueren por el 
 ### Beneficios
 
 - Fuente de crecimiento economico. Empleos de alta calidad y mejoras en el producto
-- Competitivadad global. Ingresan a mercados globales mas competitivos donde se manejan divisas extranjeras. <!-- https://youtu.be/-E-FJjWfso8?si=gNwBWcewoYuXc7Qi&t=52 -->
+- Competitivadad global. Ingresan a mercados globales mas competitivos donde se manejan [**divisas extranjeras**](https://youtu.be/-E-FJjWfso8?si=gNwBWcewoYuXc7Qi&t=52 "Los dolares")
 - Soluciones a problemas sociales
 
 ## Incubadoras vs Aceleradores
