@@ -7,7 +7,7 @@ Con aportes de:
 - [Tomas Fabrizio Orsi 🍋](https://github.com/lima-limon-inc)
 
 ## Formato PDF
-[Resumen en formato pdf (1 solo archivo)](resumen.pdf "Tuki")
+[Resumen en formato pdf (1 solo archivo)](https://github.com/Taielmolina01/EBT/releases/download/1.0/Resumen-EBT-Primer-Parcial-Molina-Orsi-2C-2024.pdf "Click me ^_^")
 
 ## Generacion del PDF
 
