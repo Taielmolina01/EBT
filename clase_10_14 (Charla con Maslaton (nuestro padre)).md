@@ -91,7 +91,8 @@ Sistema de emisión decreciente, hasta 2140 van haber se calcula.
 
 # Esquema Ponzi
 ## Características fundamentales
-Tiene 3 características fundamentales
+Tiene 3 características fundamentales:
+
 1. Captacion de fondos 
 2. Promesas de resultados. (esto es ilegal)
 3. Falsificacion de documentos.
