@@ -139,5 +139,3 @@ Más allá del interés anual que paga el bono, lo interesante para la inversió
 Las acciones son instrumentos de renta variable en los cuales la promesa de dinero que ofrecen varía en el tiempo y depende de la performance de la empresa y de cómo reparten los beneficios.
 
 Además, las acciones otorgan a su titular la potestad de votar en la junta de accionistas como también participar de las decisiones económicas de la empresa y disfrutar de sus beneficios.val
-
-CACA
