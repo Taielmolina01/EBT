@@ -23,7 +23,7 @@
 	
 ## Preguntas tomadas
 
-- Una empresa es de base tecnológica si: _Tiene alto valor agregado_
+- Una empresa es de base tecnológica si: _Tiene alto valor agregado, producen desarrollo tecnológico y vinculan la ciencia con el mercado_
 - ¿Qué es el costo de oportunidad?: _La cantidad de otros bienes o servicios a la que debo renunciar para obtener un determinado bien o servicio_
 - La tasa de interés es: 
     - _El costo del dinero en un período de tiempo determinado_
@@ -81,7 +81,7 @@
     - _Promesa de resultados_
     - _Falsificación de resultados_
 - ¿De qué está compuesto el pasivo? _Son las obligaciones hacia terceros que posee la organización_
-- Esto no es una pregunta pero dijo que si >20\% de tu activo está en efectivo =>
+- Esto no es una pregunta pero dijo que si >20\% de tu activo está en efectivo => no estoy sacando reditos de esa guita
 - Si vemos muchas amortizadas => habría que renovar stock
 - Diferencia entre tasa de interés simple y compuesta: _En la tasa de interés compuesta el interés se capitaliza, en la tasa de interés simple siempre se trabaja sobre el capital inicial_
 - Si tomo un prestamo con el sistema Alemán duele menos refinanciar la deuda => ya pagué la mayoria de los intereses
@@ -138,6 +138,6 @@ Más allá del interés anual que paga el bono, lo interesante para la inversió
 
 Las acciones son instrumentos de renta variable en los cuales la promesa de dinero que ofrecen varía en el tiempo y depende de la performance de la empresa y de cómo reparten los beneficios.
 
-Además, las acciones otorgan a su titular la potestad de votar en la junta de accionistas como también participar de las decisiones económicas de la empresa y disfrutar de sus beneficios.
+Además, las acciones otorgan a su titular la potestad de votar en la junta de accionistas como también participar de las decisiones económicas de la empresa y disfrutar de sus beneficios.val
 
 CACA
