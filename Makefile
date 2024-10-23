@@ -1,5 +1,5 @@
 compile:
-	./HelperShellScripts/mdsToPdf.sh clase_ resumen
+	./HelperShellScripts/mdsToPdf.sh clases/clase_ resumen
 
 toPNG:
 	./HelperShellScripts/pngify.sh resumen.pdf resumen-en-pngs/resumen.png
