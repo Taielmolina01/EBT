@@ -81,7 +81,7 @@
     - _Promesa de resultados_
     - _Falsificación de resultados_
 - ¿De qué está compuesto el pasivo? _Son las obligaciones hacia terceros que posee la organización_
-- Esto no es una pregunta pero dijo que si >20% de tu activo está en efectivo =>
+- Esto no es una pregunta pero dijo que si >20\% de tu activo está en efectivo =>
 - Si vemos muchas amortizadas => habría que renovar stock
 - Diferencia entre tasa de interés simple y compuesta: _En la tasa de interés compuesta el interés se capitaliza, en la tasa de interés simple siempre se trabaja sobre el capital inicial_
 - Si tomo un prestamo con el sistema Alemán duele menos refinanciar la deuda => ya pagué la mayoria de los intereses
@@ -99,7 +99,7 @@
 
 Variación que experimenta una variable como respuesta a la variación de otra variable en un 1%.
 
-$E=\frac{%\Delta Q}{\Delta P}$
+$E=\frac{\%\Delta Q}{\Delta P}$
 
 Tipos:
     - Perfectamente inélastica: $E = 0$. Pan.
@@ -139,3 +139,5 @@ Más allá del interés anual que paga el bono, lo interesante para la inversió
 Las acciones son instrumentos de renta variable en los cuales la promesa de dinero que ofrecen varía en el tiempo y depende de la performance de la empresa y de cómo reparten los beneficios.
 
 Además, las acciones otorgan a su titular la potestad de votar en la junta de accionistas como también participar de las decisiones económicas de la empresa y disfrutar de sus beneficios.
+
+CACA
