@@ -50,7 +50,7 @@ El flujo de fondos en empresas se usa tanto para la evaluacion de proyectos como
 
 1. Todos los valores deben representar dinero en efectivo y estar ubicados en las fechas donde se produce el ingreso o egreso de efectivo o “Cash”. 
 	1. Aca, solo cuenta el efectivo. Si alguien te debe plata, vos solo pones la plata "como presente" **EN EL MES QUE TE LA DAN**. Esto es en contrate con el balance, en donde las deudas a favor se consideran "activos". Aca lo unico activo es la plata, todo el resto esta "desactivado". Barras.
-	2. El clash flow, deberia coincidir con el "disponibilidad" en lo que es balance (de esa temporada).
+	2. El cash flow, deberia coincidir con el "disponibilidad" en lo que es balance (de esa temporada).
 	
 2. Todos los valores deben ser “marginales”. Es decir, si un ingreso o egreso de efectivo ocurre independientemente de que se lleve adelante el proyecto o no, no debe formar parte del flujo de fondos.
 	1. Los "costos hundidos" no se incluyen en el flujo de fondos **DE UN PROYECTO**. Ejemplo: si haces un estudio de mercado ANTES de hacer el proyecto, este costo no va en flujo de fondos de analisis del proyecto. Este costo ya lo gastaste, lo hagas o no el proyecto el costo ese ya lo tenes.
