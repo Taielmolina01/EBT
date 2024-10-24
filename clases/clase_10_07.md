@@ -75,7 +75,7 @@ Calcular la VAN, dado el siguiente proyecto:
 - TREMA: 10%.
 - Impuesto a las Ganancias: 30%.
 ```
-Nota: Yo puse el signo "-", en el cuadro estaban sin el menos pero en rojo.
+Nota: Yo puse el signo "-". En el cuadro original estaban simplemente en rojo.
 
 | Periodo                      | 0      | 1     | 2     | 3      |
 |------------------------------|--------|-------|-------|--------|
