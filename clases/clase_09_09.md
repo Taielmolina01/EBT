@@ -8,8 +8,12 @@ Establece que todo hecho económico tiene su origen en otro hecho económico, de
 
 - El ente que recibe == deudor.
 - Ente que entrega == acreedor.
-- Las pérdidas se debitan y las ganancias se acreditan.
 - Todo valor que entra es igual al valor que sale.
+- Las pérdidas se debitan y las ganancias se acreditan. La relacion entre el debe y el haber es "opuesta".
+
+|      | Activo | Pasivo |
+| Sube | Debe   | Haber  |
+| Baja | Haber  | Debe   |
 
 # Devengamiento vs cobro/pago
 
