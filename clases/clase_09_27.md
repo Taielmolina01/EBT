@@ -19,6 +19,7 @@ Valor de una empresa
 
 $V = \displaystyle{\sum_{t=1}^{\infty}} \frac{FF_t}{(1 + \text{Costo del dinero})^t}$
 
+
 Con:
 
 - V: Valor de una empresa
@@ -63,7 +64,7 @@ A mayor riesgo mayor tasa de interés.
 
 ## Interés simple
 
-No se compone con el capital para generar nuevos intereses sino sino que siempre el capital original es el que trabaja a la tasa.
+No se compone con el capital para generar nuevos intereses sino que siempre el capital original es el que trabaja a la tasa.
 
 Tus ganancias por intereses anteriores no las vas "vas a incluir" en nuevas inversiones.
 
