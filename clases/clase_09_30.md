@@ -19,7 +19,7 @@ $(1+\frac{TNA}{Y})^Y$
 Ejemplos:
 
 
-_El Banco nos ofrece un plazo fijo con una TNA del 16% con capitalización trimestral. ¿Cuánto vale la TEA?_
+`El Banco nos ofrece un plazo fijo con una TNA del 16% con capitalización trimestral. ¿Cuánto vale la TEA?`
 
 
 $(1 + TEA)^1 = (1 + \frac{TNA}{Y})^Y$
@@ -86,7 +86,8 @@ Este es el sistema mas usado. Lo que tiene de malo (o bueno para  el prestador) 
 
 
 Calculo interes i:
-$I_i = (P - \displaystyle{\sum_{i=1}^{i-1}}A_i) \cdot i$
+$I_i = (P - \displaystyle{\sum_{i=1}^{i-1}}A_i) \cdot i$.
+Notar que cuando $i=1$, la sumatoria da 0 entonces el primer interes queda como $I_1 = P \cdot i$
 
 Calculo Amortizacion i:
 $A_i = C - I_i$

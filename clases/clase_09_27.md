@@ -97,7 +97,7 @@ Se usa solamente como una medida para tener una idea de magnitud
 ¿Como usas la TNA para calcular el valor a futuro?
 (Es la misma formula que el interes compuesto)
 
-$VF = VP * (1 + (\frac{TNA}{m})^m)$
+$VF = VP \cdot (1 + (\frac{TNA}{m})^m)$
 
 ## Tasa Efectiva Anual
 
@@ -110,6 +110,7 @@ Tasas nominales distintas que al transformarlas a tasas efectivas en un mismo pe
 
 ## Capitalizaciones
 Los intereses se convierten en capital `n` veces al año. Algunos ejemplos:
+
 
 - Trimestral: Se capitaliza 4 veces al año.
 - Mensual: Se capitaliza 12 veces al año.

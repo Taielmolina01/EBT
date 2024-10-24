@@ -26,7 +26,7 @@ De esta ecuacion salen otras sub-ecuaciones para determinar un valor dado otro.
 
 Posiblemente de los valores mas importantes a la hora de evaluar un proyecto (depsues del valor en si)
 
-Cuanto mas tiempo tarde en recuperar la inversion + ganar el extra; menos atractiva es. Principalmente por el "Costo del dinero", siempre es mejor tener dinero en mano ahora. Ademas, las inversiones de largo tiempo suelen ser mas riesgosas (uno no sabe que va a ser de uno mismo). 
+Cuanto mas tiempo tarde en recuperar: la inversion y el interes; menos atractiva es. Principalmente por el "Costo del dinero", siempre es mejor tener dinero en mano ahora. Ademas, las inversiones de largo tiempo suelen ser mas riesgosas (uno no sabe que va a ser de uno mismo). 
 
 $0 = \displaystyle{\sum_{t=0}^X} \frac{-\text{Salidas de Casht} + \text{Entrasdas de Casht}}{(1 + TREMA)^t}$
 
