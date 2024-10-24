@@ -15,6 +15,9 @@ Establece que todo hecho económico tiene su origen en otro hecho económico, de
 | Sube | Debe   | Haber  |
 | Baja | Haber  | Debe   |
 
+
+NOTA: ESTA REGLITA NO LA ENTENDI. SI LA SIGO ME DA SIEMPRE AL REVES. RECOMIENDO NO USARLO. NO SE SI LO COMPIE MAL O LO QUE SEA. **LA POSTA ES LO DE LAS PERDIDAS SE DEBITAN Y LAS GANANCIAS SE ACREDITAN.**
+
 # Devengamiento vs cobro/pago
 
 Devengamiento: momento en el que se realiza una transacción económica, a pesar de que el cobro proveniente de esa venta sea en el futuro.
