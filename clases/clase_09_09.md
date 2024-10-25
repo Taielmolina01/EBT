@@ -12,6 +12,7 @@ Establece que todo hecho económico tiene su origen en otro hecho económico, de
 - Las pérdidas se debitan y las ganancias se acreditan. La relacion entre el debe y el haber es "opuesta".
 
 |      | Activo | Pasivo |
+|------|--------|--------|
 | Sube | Debe   | Haber  |
 | Baja | Haber  | Debe   |
 
