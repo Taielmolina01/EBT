@@ -77,20 +77,33 @@ Se clasifica en 4 grandes tipos:
 
 - Baja: <10% anual
 - Media: ~10% anual
-- Alta: >20% anual <!-- Argentina la cabra🐐 -->
+- Alta: >20% anual (Argentina la cabra🐐)
 - Hiperinflación: >50% anual
+
+![Siempre primeros :carita-fachera:](imagenes/inflacion-mundial.png ":carita triste:")
 
 ## Tipos
 
-- Inflación de **demanda**: se origina por un aumento en la demanda agregada por encima de la oferta agregada. Puede ser por un aumento en el consumo, la inversión, el gasto de gobierno, el salario real, la oferta monetaria o una disminución de los impuestos.
+- Inflación de **demanda**:
+	- Se origina por un aumento en la demanda agregada por encima de la oferta agregada. Puede ser por un aumento en el consumo, la inversión, el gasto de gobierno, el salario real, la oferta monetaria o una disminución de los impuestos.
+	- Los precios suben porque, dada una oferta constante y una demanda en auge, los precios suben. ¿Por que? Para maximizar las ganancias "Si todos quieren comprar, subo el precio".
 
-- Inflación de **costos**: se origina por un aumento en los precios. Puede ser por un aumento del salario nominal, un aumento del Mark Up o una disminución de la productividad.
+- Inflación de **costos**: 
+	- Se origina por un aumento en los precios. Puede ser por un aumento del salario nominal, un aumento del Mark Up o una disminución de la productividad.
+	- Ocurre por motivos ajenos a la emision monetaria.
 
-- Inflación **Inercial**: se origina por las expectativas que tienen los agentes económicos de que se repita la inflación de los períodos anteriores. 
+- Inflación **Inercial**:
+	- Se origina por las expectativas que tienen los agentes económicos de que se repita la inflación de los períodos anteriores. 
+	- Los vendedores aumentan porque "siempre aumenta". Es una medida preventiva. Es un fenomeno psicologico y cultural. Es un poco como papa nuel en ese sentido
 
-- Inflación **Estructural**: Aumento de los precios producto de atrasos en la estructura productiva. El problema productivo se traslada al resto de la economía. Si no hay desarrollo tecnológico, la economía se estanca también generando inflación.
+- Inflación **Estructural**:
+	- Aumento de los precios producto de atrasos en la estructura productiva. El problema productivo se traslada al resto de la economía. Si no hay desarrollo tecnológico, la economía se estanca también generando inflación.
+	- La oferta no llega a abastecer la demanda porque esta estancada tecnologicamente. 
 
-- Inflación por **Política Monetaria**: La oferta de dinero crece a una tasa superior a la demanda de dinero.
+- Inflación por **Política Monetaria**:
+	- La oferta de dinero crece a una tasa superior a la demanda de dinero.
+	- Esta es "la tipica", "la mas famosa", "la estrella", "la que todos conocemos", "la que escuchamos todo el tiempo", "la cereza en el pastel", "la protagonista", "la leyenda", "la iconica"; en pocas palabras, la cabra de la inflacion es la inflacion monetaria.
+	- Hay muchas mas billetes en circulacion, mucho mas de lo que se demandan. Al haber demanda constante y oferta creciente, el valor baja. OJO AL PIOJO, no es **el unico** factor que genera demanda, solamente es el mas conocido. 
 
 ## Soluciones para bajar la inflación
 
