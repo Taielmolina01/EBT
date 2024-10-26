@@ -151,7 +151,7 @@ Solo pueden ser negativas amortizaciones acumuladas y cuenta utilidades (puede s
 # Pasivo
 
 - Pasivo: obligaciones hacia terceros que posee la organización.
-- Ordenamiento: se ordenan por acreedor con exigibilidad creciente (empezando por el fisco, y de ahi). Ademas, estan ordenados por liquidez descendiente.
+- Ordenamiento: se ordenan por acreedor con exigibilidad creciente (empezando por los mas "lights" y TERMINANDO por el fisco). Ademas, estan ordenados por liquidez descendiente.
 - Pasivo corriente: exigibles en un plazo menor a un año.
 - Pasivo no corriente: no son exigibles en un plazo menor a un año.
 
