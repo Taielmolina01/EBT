@@ -104,6 +104,9 @@ Los issues en GH muestran las clases que fueron revisadas
 ![foto](resumen-en-pngs/resumen-73.png)
 ![foto](resumen-en-pngs/resumen-74.png)
 ![foto](resumen-en-pngs/resumen-75.png)
+<<<<<<< HEAD
 ![foto](resumen-en-pngs/resumen-76.png)
 ![foto](resumen-en-pngs/resumen-77.png)
 ![foto](resumen-en-pngs/resumen-78.png)
+=======
+>>>>>>> 53705e979a88d117fe140675a2b6c5f6e507bfed
