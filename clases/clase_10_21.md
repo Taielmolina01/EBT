@@ -1,3 +1,5 @@
+\newpage
+
 # Derecho
 
 Herramienta que nos permite establecer pautas de conducto
@@ -23,8 +25,6 @@ Seguimos el derecho continental. Nos basamos en la constitucion argentina.
 Las leyes que seguimos estan estipuladas en la [constitucion argentina](https://youtu.be/O4Lth3OZ9zw?si=y5_v1xuBD5MgFJgP).
 
 Las "provincias" argentinas funcionan mas como los estados de estados unidos/brasil.
-
-
 
 ### Proposito:
 
