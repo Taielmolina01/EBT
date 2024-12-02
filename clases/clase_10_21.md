@@ -201,6 +201,7 @@ Acto Jurídico celebrado con todos los elementos del mismo y su fin inmediato es
 La obligación es una relación jurídica en virtud de la cual el acreedor tiene el derecho a exigir del deudor una prestación destinada a satisfacer un interés lícito y, ante el incumplimiento, a obtener forzadamente la satisfacción de dicho interés.
 
 Los elementos de una **obligación** entonces son: 
+
 - Sujetos
 - Prestación
 - Interés 
@@ -232,6 +233,7 @@ En segunda instancia, en caso de no verificarse el pago de la deuda, se _habilit
 La prestación que constituye el objeto de la obligación _debe ser material y jurídicamente posible, lícita, determinada o determinable, susceptible de valoración económica y debe corresponder a un interés patrimonial o extrapatrimonial del acreedor_.
 
 La prestación es caracterizada como el comportamiento del deudor tendiente a satisfacer el interés del acreedor mientras que el interés del acreedor es el objeto de la obligación (el bien apetecible para el acreedor)
+
 - material y jurídicamente posible
 - lícita
 - determinada o determinable
