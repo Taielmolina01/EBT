@@ -28,6 +28,7 @@ Se necesita de:
 Los issues en GH muestran las clases que fueron revisadas
 
 ## Resumen en pngs
+
 ![foto](resumen-en-pngs/resumen-0.png)
 ![foto](resumen-en-pngs/resumen-1.png)
 ![foto](resumen-en-pngs/resumen-2.png)
@@ -107,4 +108,3 @@ Los issues en GH muestran las clases que fueron revisadas
 ![foto](resumen-en-pngs/resumen-76.png)
 ![foto](resumen-en-pngs/resumen-77.png)
 ![foto](resumen-en-pngs/resumen-78.png)
-

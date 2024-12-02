@@ -131,9 +131,14 @@ Ejemplos:
     - Hereditarias o sucesorias
     - Laboralles
     - Comerciales
+    
+## Actos jurídicos
 
-## Hechos juridicos
-Acontecimientos que producen el nacimiento, modificacion o extincion de las relaciones o situaciones juridicas.
+Acto voluntario lícito que tiene por fin inmediato la adquisición, modificación o extinción de relaciones o situaciones jurídicas
+
+## Hechos jurídicos
+
+Acontecimientos que producen el nacimiento, modificación o extinción de las relaciones o situaciones jurídicas.
 
 
 ### Clasifiacion de los hechos juridicos
